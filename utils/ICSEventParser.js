@@ -1,4 +1,5 @@
 const Seance = require('../models/seance');
+const Enseignant = require('../models/enseignant');
 
 class ICSEventParser {
     static REGEX_SALLE = / (?=RFC|IBGBI|PEL|AX|BX|CX|1CY|IDF|MAU|IUT)/;
@@ -83,7 +84,8 @@ class ICSEventParser {
         }, []).join("\n");
     }
     extractAttendees(){
-        this.attendees = this._descInfos["PROF"] ? this._descInfos["PROF"].split(" / ") : [];
+        let list = this._descInfos["PROF"] ? this._descInfos["PROF"].split(" / ") : [];
+        this.attendees = list.map((name) => new Enseignant('', name));
     }
     extractGroups(){
 
@@ -102,7 +104,7 @@ class ICSEventParser {
         this._descInfos = desc.reduce((acc, line) => {
             let match = line.match(ICSEventParser.REGEX_DESCRIPTION);
             if(match){
-                acc[match.groups.key] = match.groups.value;
+                acc[match.groups.key.trim()] = match.groups.value.trim();
             }
             return acc;
         }, {});

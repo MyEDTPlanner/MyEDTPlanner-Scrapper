@@ -4,6 +4,7 @@ const moment = require('moment');
 class WebEventParser {
     static REGEX_DATE = /(Lundi|Mardi|Mercredi|Jeudi|Vendredi|Samedi|Dimanche) /u;
     static REGEX_UEC = /-(?<ec>(?:EC|(?:UE(?:C|T|D)))[0-9]{2,3})_/;
+    static REGEX_PROF = "^(?<prenom>[A-Z](?:\.?|[a-z]+)(?:[ \-‐‑‒–—―﹘﹣－]+[A-Z](?:\.?|[a-z]+))?)[ ]+(?<nom>(?:[A-Z]+(?:[ \-‐‑‒–—―﹘﹣－'’ʾ′ˊˈꞌ][A-Z]+)*|[A-Z][a-z]*(?:[-‐‑‒–—―﹘﹣－'’ʾ′ˊˈꞌ][A-Z][a-z]*)*))$";
 
     constructor(event, module){
         this._event = event;
@@ -89,7 +90,17 @@ class WebEventParser {
         this.description = this._event["commentaire"];
     }
     extractAttendees(){
-        this.attendees = this._event["profs"].split(" / ");
+        let list = this._event["profs"].split(" / ")
+        this.attendees = list.reduce((acc, ligne) => {
+            let match = ligne.match(WebEventParser.REGEX_PROF);
+            if(match){
+                acc.push({
+                    firstname: match.groups.prenom,
+                    lastname: match.groups.nom
+                });
+            }
+            return acc;
+        }, []);
     }
     extractGroups(){
         this.groups = this._event["groupes"].split(" / ");
