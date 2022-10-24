@@ -1,8 +1,12 @@
 const Seance = require('../models/seance');
 
 class ICSEventParser {
+    static REGEX_SALLE = / (?=RFC|IBGBI|PEL|AX|BX|CX|1CY|IDF|MAU|IUT)/;
+    static REGEX_DESCRIPTION = /(?<key>[^:]+(?= : )) : (?<value>.+)/;
+
     constructor(event){
         this._event = event;
+        this._descInfos = {};
         this.start;
         this.end;
         this.title;
@@ -16,6 +20,7 @@ class ICSEventParser {
         this.code;
     }
     parse(){
+        this.extractDescriptionInfos();
         this.extractStartDate();
         this.extractEndDate();
         this.extractDescription();
@@ -61,7 +66,7 @@ class ICSEventParser {
         this.title = this._event.summary.split(" - ")[0].trim();
     }
     extractLocations(){
-        this.locations = this._event.location;
+        this.locations = this._event.location.split(ICSEventParser.REGEX_SALLE);
     }
     extractStartDate(){
         this.start = this._event.start;
@@ -69,12 +74,16 @@ class ICSEventParser {
     extractEndDate(){
         this.end = this._event.end;
     }
-    extractDescription(){    
-        this.description = this._event.description.val;
+    extractDescription(){  
+        this.description = Object.entries(this._descInfos).reduce((acc, [key, value]) => {
+            if(!["PROF", "MATIERE", "DUREE"].includes(key)){
+                acc.push(`${key} : ${value}`);
+            }
+            return acc;
+        }, []).join("\n");
     }
     extractAttendees(){
-        let desc = this._event.description.val.split("\n");
-        this.attendees = desc.filter(line => line.startsWith("PROF :")).map(line => line.replace("PROF : ", "").trim());
+        this.attendees = this._descInfos["PROF"] ? this._descInfos["PROF"].split(" / ") : [];
     }
     extractGroups(){
 
@@ -86,8 +95,17 @@ class ICSEventParser {
         
     }
     extractIsPresential(){
+        this.presential = this._descInfos["COMMENTAIRE"] ? !this._descInfos["COMMENTAIRE"].includes('Distanciel') : true;
+    }
+    extractDescriptionInfos(){
         let desc = this._event.description.val.split("\n");
-        this.presential = desc.filter(line => line.startsWith("COMMENTAIRE :")).some(ligne => ligne.includes('Presentiel'));
+        this._descInfos = desc.reduce((acc, line) => {
+            let match = line.match(ICSEventParser.REGEX_DESCRIPTION);
+            if(match){
+                acc[match.groups.key] = match.groups.value;
+            }
+            return acc;
+        }, {});
     }
 }
 module.exports = ICSEventParser;
