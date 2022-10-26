@@ -1,0 +1,5503 @@
+[
+    {
+        "uid": "2a3fb87159cdc2492b943eca2fbcf1ec",
+        "start": "2022-09-13T11:00:00.000Z",
+        "end": "2022-09-13T12:30:00.000Z",
+        "title": "ARCHITECTURE ORIENTEE SERVICES",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Franck",
+                "lastname": "LEDOUX"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC12"
+    },
+    {
+        "uid": "fca4c57891cb60fffeb6759f1d78537c",
+        "start": "2022-09-13T12:45:00.000Z",
+        "end": "2022-09-13T14:15:00.000Z",
+        "title": "ARCHITECTURE ORIENTEE SERVICES",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Franck",
+                "lastname": "LEDOUX"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC12"
+    },
+    {
+        "uid": "cb43de9b315739083ec5a39de64cf64d",
+        "start": "2022-09-20T11:00:00.000Z",
+        "end": "2022-09-20T12:30:00.000Z",
+        "title": "ARCHITECTURE ORIENTEE SERVICES",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Franck",
+                "lastname": "LEDOUX"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC12"
+    },
+    {
+        "uid": "818a48d9b2960600b2279539569c7d17",
+        "start": "2022-09-20T12:45:00.000Z",
+        "end": "2022-09-20T14:15:00.000Z",
+        "title": "ARCHITECTURE ORIENTEE SERVICES",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Franck",
+                "lastname": "LEDOUX"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC12"
+    },
+    {
+        "uid": "4e9347e278cc82109a85571e215598e1",
+        "start": "2022-09-27T11:00:00.000Z",
+        "end": "2022-09-27T12:30:00.000Z",
+        "title": "ARCHITECTURE ORIENTEE SERVICES",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Franck",
+                "lastname": "LEDOUX"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC12"
+    },
+    {
+        "uid": "260077351da5f95afc2e58d3a8748eb5",
+        "start": "2022-09-27T12:45:00.000Z",
+        "end": "2022-09-27T14:15:00.000Z",
+        "title": "ARCHITECTURE ORIENTEE SERVICES",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Franck",
+                "lastname": "LEDOUX"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC12"
+    },
+    {
+        "uid": "9bbb21efede3c96d68f9378b04556f96",
+        "start": "2022-10-04T11:00:00.000Z",
+        "end": "2022-10-04T12:30:00.000Z",
+        "title": "ARCHITECTURE ORIENTEE SERVICES",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Franck",
+                "lastname": "LEDOUX"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC12"
+    },
+    {
+        "uid": "e533a7ab42173390a0fe7e7064f3022e",
+        "start": "2022-10-04T12:45:00.000Z",
+        "end": "2022-10-04T14:15:00.000Z",
+        "title": "ARCHITECTURE ORIENTEE SERVICES",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Franck",
+                "lastname": "LEDOUX"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC12"
+    },
+    {
+        "uid": "fb318166c5a7603af5e0a8a74aeb9f5e",
+        "start": "2022-10-11T11:00:00.000Z",
+        "end": "2022-10-11T12:30:00.000Z",
+        "title": "ARCHITECTURE ORIENTEE SERVICES",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Franck",
+                "lastname": "LEDOUX"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC12"
+    },
+    {
+        "uid": "d2d988b9aa8848debf2576896d3b6643",
+        "start": "2022-10-11T12:45:00.000Z",
+        "end": "2022-10-11T14:15:00.000Z",
+        "title": "ARCHITECTURE ORIENTEE SERVICES",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Franck",
+                "lastname": "LEDOUX"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC12"
+    },
+    {
+        "uid": "42562e47df986486887184f9dcce727c",
+        "start": "2022-10-18T11:00:00.000Z",
+        "end": "2022-10-18T12:30:00.000Z",
+        "title": "ARCHITECTURE ORIENTEE SERVICES",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Franck",
+                "lastname": "LEDOUX"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC12"
+    },
+    {
+        "uid": "984b81383571f82ab4378c7996c4b80b",
+        "start": "2022-10-18T12:45:00.000Z",
+        "end": "2022-10-18T14:15:00.000Z",
+        "title": "ARCHITECTURE ORIENTEE SERVICES",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Franck",
+                "lastname": "LEDOUX"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC12"
+    },
+    {
+        "uid": "cb6e9bf4e358abb5440f015d7e11037f",
+        "start": "2022-09-29T11:00:00.000Z",
+        "end": "2022-09-29T12:30:00.000Z",
+        "title": "PROJET DLL",
+        "type": "TP",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC212"
+    },
+    {
+        "uid": "45f3d3379aa5b3a196de8a3cbb988ee9",
+        "start": "2022-09-29T12:45:00.000Z",
+        "end": "2022-09-29T14:15:00.000Z",
+        "title": "PROJET DLL",
+        "type": "TP",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC212"
+    },
+    {
+        "uid": "0002e7a25b8b4c3fab207b358598146c",
+        "start": "2022-09-30T06:30:00.000Z",
+        "end": "2022-09-30T08:00:00.000Z",
+        "title": "PROJET DLL",
+        "type": "TP",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC212"
+    },
+    {
+        "uid": "125a3578fdfddc04bd2a8b6927070e2c",
+        "start": "2022-09-30T08:15:00.000Z",
+        "end": "2022-09-30T09:45:00.000Z",
+        "title": "PROJET DLL",
+        "type": "TP",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC212"
+    },
+    {
+        "uid": "f25e7ca10095033f3053b1fbdcfc82a6",
+        "start": "2022-09-30T11:00:00.000Z",
+        "end": "2022-09-30T12:30:00.000Z",
+        "title": "PROJET DLL",
+        "type": "TP",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC212"
+    },
+    {
+        "uid": "087e58aa71ed323a0843a3e3cb71f77f",
+        "start": "2022-09-30T12:45:00.000Z",
+        "end": "2022-09-30T14:15:00.000Z",
+        "title": "PROJET DLL",
+        "type": "TP",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC212"
+    },
+    {
+        "uid": "f2f27f491c5c9c4648b77585dff4391f",
+        "start": "2022-10-06T11:00:00.000Z",
+        "end": "2022-10-06T12:30:00.000Z",
+        "title": "PROJET DLL",
+        "type": "TP",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC212"
+    },
+    {
+        "uid": "6f8d95005d4626fc53633ce49809aa0b",
+        "start": "2022-10-06T12:45:00.000Z",
+        "end": "2022-10-06T14:15:00.000Z",
+        "title": "PROJET DLL",
+        "type": "TP",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC212"
+    },
+    {
+        "uid": "1015b6845d72d4e264d35e76caf05882",
+        "start": "2022-10-07T06:30:00.000Z",
+        "end": "2022-10-07T08:00:00.000Z",
+        "title": "PROJET DLL",
+        "type": "TP",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC212"
+    },
+    {
+        "uid": "ff4934a03a305cd6a5561b53add5733f",
+        "start": "2022-10-07T08:30:00.000Z",
+        "end": "2022-10-07T10:00:00.000Z",
+        "title": "PROJET DLL",
+        "type": "TP",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC212"
+    },
+    {
+        "uid": "5c8d151b671cb3b4713f152c4df8ee64",
+        "start": "2022-10-10T06:30:00.000Z",
+        "end": "2022-10-10T08:00:00.000Z",
+        "title": "PROJET DLL",
+        "type": "TP",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC212"
+    },
+    {
+        "uid": "5cc18e23677c1345f1762620998189dc",
+        "start": "2022-10-10T08:15:00.000Z",
+        "end": "2022-10-10T09:45:00.000Z",
+        "title": "PROJET DLL",
+        "type": "TP",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC212"
+    },
+    {
+        "uid": "0ed3b348b6b307e45edb9bc61fa684a8",
+        "start": "2022-10-14T11:00:00.000Z",
+        "end": "2022-10-14T12:30:00.000Z",
+        "title": "PROJET DLL",
+        "type": "TP",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC212"
+    },
+    {
+        "uid": "1968016d12ec5bcfbeb23a7260721550",
+        "start": "2022-10-14T12:45:00.000Z",
+        "end": "2022-10-14T14:15:00.000Z",
+        "title": "PROJET DLL",
+        "type": "TP",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC212"
+    },
+    {
+        "uid": "36d1add9a9fa3db9ad9b14f8b806e614",
+        "start": "2022-10-20T11:00:00.000Z",
+        "end": "2022-10-20T12:30:00.000Z",
+        "title": "PROJET DLL",
+        "type": "TP",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC212"
+    },
+    {
+        "uid": "b38891f38bb4a58f0a8d638d24383606",
+        "start": "2022-10-20T12:45:00.000Z",
+        "end": "2022-10-20T14:15:00.000Z",
+        "title": "PROJET DLL",
+        "type": "TP",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC212"
+    },
+    {
+        "uid": "0bf32b4b61dd4e836e0475dc0755f18d",
+        "start": "2022-10-21T06:30:00.000Z",
+        "end": "2022-10-21T08:00:00.000Z",
+        "title": "PROJET DLL",
+        "type": "TP",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC212"
+    },
+    {
+        "uid": "067122da0a1f1b524329ef29cc7f363c",
+        "start": "2022-10-21T08:15:00.000Z",
+        "end": "2022-10-21T09:45:00.000Z",
+        "title": "PROJET DLL",
+        "type": "TP",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC212"
+    },
+    {
+        "uid": "573a966c3224f7bb428455cf10dc1c2a",
+        "start": "2022-10-26T06:30:00.000Z",
+        "end": "2022-10-26T08:00:00.000Z",
+        "title": "PROJET DLL",
+        "type": "TP",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC212"
+    },
+    {
+        "uid": "9ff2a8baf657a61b2074524ee77f613a",
+        "start": "2022-10-26T08:15:00.000Z",
+        "end": "2022-10-26T09:45:00.000Z",
+        "title": "PROJET DLL",
+        "type": "TP",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC212"
+    },
+    {
+        "uid": "dc1f11d2ffe3af84dd8aec586b04e31b",
+        "start": "2022-10-27T11:00:00.000Z",
+        "end": "2022-10-27T12:30:00.000Z",
+        "title": "PROJET DLL",
+        "type": "TP",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC212"
+    },
+    {
+        "uid": "8e50082882df3873e52fdea9d3244b5b",
+        "start": "2022-10-27T12:45:00.000Z",
+        "end": "2022-10-27T14:15:00.000Z",
+        "title": "PROJET DLL",
+        "type": "TP",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC212"
+    },
+    {
+        "uid": "bf69e72bc9f2f31f8595180f85e584ab",
+        "start": "2022-10-28T06:30:00.000Z",
+        "end": "2022-10-28T08:00:00.000Z",
+        "title": "PROJET DLL",
+        "type": "TP",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC212"
+    },
+    {
+        "uid": "5d4de3b245e68515fb56e61743ac6573",
+        "start": "2022-10-28T08:15:00.000Z",
+        "end": "2022-10-28T09:45:00.000Z",
+        "title": "PROJET DLL",
+        "type": "TP",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC212"
+    },
+    {
+        "uid": "aaf0dc27bd572ff57e7d536a6b0ec643",
+        "start": "2023-01-03T07:30:00.000Z",
+        "end": "2023-01-03T09:00:00.000Z",
+        "title": "ANGLAIS",
+        "type": "TD",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Sophie",
+                "lastname": "BOURSE"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC195"
+    },
+    {
+        "uid": "cfd57091616a6384ba1f527f03ec3bcf",
+        "start": "2023-01-03T09:15:00.000Z",
+        "end": "2023-01-03T10:45:00.000Z",
+        "title": "ANGLAIS",
+        "type": "TD",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Sophie",
+                "lastname": "BOURSE"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC195"
+    },
+    {
+        "uid": "cb69d44300f994b072d450e6caaaf1c9",
+        "start": "2023-01-10T07:30:00.000Z",
+        "end": "2023-01-10T09:00:00.000Z",
+        "title": "ANGLAIS",
+        "type": "TD",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Sophie",
+                "lastname": "BOURSE"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC195"
+    },
+    {
+        "uid": "37862327b4a851549f26e30aaaec1c31",
+        "start": "2023-01-10T09:15:00.000Z",
+        "end": "2023-01-10T10:45:00.000Z",
+        "title": "ANGLAIS",
+        "type": "TD",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Sophie",
+                "lastname": "BOURSE"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC195"
+    },
+    {
+        "uid": "f62d2b026c46cf79ecef483a419a98b3",
+        "start": "2023-01-17T07:30:00.000Z",
+        "end": "2023-01-17T09:00:00.000Z",
+        "title": "ANGLAIS",
+        "type": "TD",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Sophie",
+                "lastname": "BOURSE"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC195"
+    },
+    {
+        "uid": "2d5a6c707abe35d349ec10a80e3acbf4",
+        "start": "2023-01-17T09:15:00.000Z",
+        "end": "2023-01-17T10:45:00.000Z",
+        "title": "ANGLAIS",
+        "type": "TD",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Sophie",
+                "lastname": "BOURSE"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC195"
+    },
+    {
+        "uid": "363e626923cdfb51efcf09e0a99a5a8d",
+        "start": "2023-01-24T07:30:00.000Z",
+        "end": "2023-01-24T09:00:00.000Z",
+        "title": "ANGLAIS",
+        "type": "TD",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Sophie",
+                "lastname": "BOURSE"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC195"
+    },
+    {
+        "uid": "059aa4bf3dedcf6317aff6473a23949e",
+        "start": "2023-01-24T09:15:00.000Z",
+        "end": "2023-01-24T10:45:00.000Z",
+        "title": "ANGLAIS",
+        "type": "TD",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Sophie",
+                "lastname": "BOURSE"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC195"
+    },
+    {
+        "uid": "6425e23c431db78e2160630c34c8b26d",
+        "start": "2023-01-31T07:30:00.000Z",
+        "end": "2023-01-31T09:00:00.000Z",
+        "title": "ANGLAIS",
+        "type": "TD",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Sophie",
+                "lastname": "BOURSE"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC195"
+    },
+    {
+        "uid": "12825e13f5c08d4c0608f5367a05212e",
+        "start": "2023-01-31T09:15:00.000Z",
+        "end": "2023-01-31T10:45:00.000Z",
+        "title": "ANGLAIS",
+        "type": "TD",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Sophie",
+                "lastname": "BOURSE"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC195"
+    },
+    {
+        "uid": "704eece90db22c188eb5620a53325b85",
+        "start": "2023-02-07T07:30:00.000Z",
+        "end": "2023-02-07T09:00:00.000Z",
+        "title": "ANGLAIS",
+        "type": "TD",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Sophie",
+                "lastname": "BOURSE"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC195"
+    },
+    {
+        "uid": "78e8ccba95b4afc5277276ebec7c0720",
+        "start": "2023-02-07T09:15:00.000Z",
+        "end": "2023-02-07T10:45:00.000Z",
+        "title": "ANGLAIS",
+        "type": "TD",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Sophie",
+                "lastname": "BOURSE"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC195"
+    },
+    {
+        "uid": "9e2a6e95907836a8ca76ff11156158aa",
+        "start": "2023-02-14T07:30:00.000Z",
+        "end": "2023-02-14T09:00:00.000Z",
+        "title": "ANGLAIS",
+        "type": "TD",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Sophie",
+                "lastname": "BOURSE"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC195"
+    },
+    {
+        "uid": "1f0ca79f2d71595e1c8a56bb0a05b63a",
+        "start": "2023-02-14T09:15:00.000Z",
+        "end": "2023-02-14T10:45:00.000Z",
+        "title": "ANGLAIS",
+        "type": "TD",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Sophie",
+                "lastname": "BOURSE"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC195"
+    },
+    {
+        "uid": "ee9ef09a9c2d43852b70e3d914204b76",
+        "start": "2023-02-21T07:30:00.000Z",
+        "end": "2023-02-21T09:00:00.000Z",
+        "title": "ANGLAIS",
+        "type": "TD",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Sophie",
+                "lastname": "BOURSE"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC195"
+    },
+    {
+        "uid": "c36a3821c87073efa25ec4661caa6fce",
+        "start": "2023-02-21T09:15:00.000Z",
+        "end": "2023-02-21T10:45:00.000Z",
+        "title": "ANGLAIS",
+        "type": "TD",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Sophie",
+                "lastname": "BOURSE"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC195"
+    },
+    {
+        "uid": "55234c0a5d58f4c80273923ab8ce1236",
+        "start": "2022-12-12T12:00:00.000Z",
+        "end": "2022-12-12T15:00:00.000Z",
+        "title": "UEC18",
+        "type": "Examen",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Damien",
+                "lastname": "PLOIX"
+            }
+        ],
+        "locations": [
+            "IBGBI-C-001"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true
+    },
+    {
+        "uid": "69663f9dfbd7a26b7dfbdfe9cc5b3355",
+        "start": "2023-01-02T12:00:00.000Z",
+        "end": "2023-01-02T13:30:00.000Z",
+        "title": "URBANISATION DES SI",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Philippe",
+                "lastname": "DECLERCQ"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC197"
+    },
+    {
+        "uid": "a2de4b130dfb2e8a1836d41497647217",
+        "start": "2023-01-02T13:45:00.000Z",
+        "end": "2023-01-02T15:15:00.000Z",
+        "title": "URBANISATION DES SI",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Philippe",
+                "lastname": "DECLERCQ"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC197"
+    },
+    {
+        "uid": "0f95842ee6966c69a817b2c06516edcf",
+        "start": "2022-09-15T08:30:00.000Z",
+        "end": "2022-09-15T10:00:00.000Z",
+        "title": "STRATEGIE ET TI",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Frederic",
+                "lastname": "PATALAGOITY"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC19"
+    },
+    {
+        "uid": "dee297a7330783cf3d508b88f155bc70",
+        "start": "2022-09-22T06:30:00.000Z",
+        "end": "2022-09-22T08:00:00.000Z",
+        "title": "STRATEGIE ET TI",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Frederic",
+                "lastname": "PATALAGOITY"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC19"
+    },
+    {
+        "uid": "4a6eb0f00399bd0ca7ebb2400ece9a7f",
+        "start": "2022-09-22T08:15:00.000Z",
+        "end": "2022-09-22T09:45:00.000Z",
+        "title": "STRATEGIE ET TI",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Frederic",
+                "lastname": "PATALAGOITY"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC19"
+    },
+    {
+        "uid": "0092a60c13ce7f1c168b7bdbb2b1ab3c",
+        "start": "2022-09-29T06:30:00.000Z",
+        "end": "2022-09-29T08:00:00.000Z",
+        "title": "STRATEGIE ET TI",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Frederic",
+                "lastname": "PATALAGOITY"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC19"
+    },
+    {
+        "uid": "69ac66be03cc2cf01b5bac3de7ec12cd",
+        "start": "2022-09-29T08:15:00.000Z",
+        "end": "2022-09-29T09:45:00.000Z",
+        "title": "STRATEGIE ET TI",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Frederic",
+                "lastname": "PATALAGOITY"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC19"
+    },
+    {
+        "uid": "f3968b06aabb1fbc5bfda5cb916c4427",
+        "start": "2022-10-06T06:30:00.000Z",
+        "end": "2022-10-06T08:00:00.000Z",
+        "title": "STRATEGIE ET TI",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Frederic",
+                "lastname": "PATALAGOITY"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC19"
+    },
+    {
+        "uid": "86cb215300c4e4d49ee079833526d96a",
+        "start": "2022-10-06T08:15:00.000Z",
+        "end": "2022-10-06T09:45:00.000Z",
+        "title": "STRATEGIE ET TI",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Frederic",
+                "lastname": "PATALAGOITY"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC19"
+    },
+    {
+        "uid": "512b102ec1bd7f8849899193aa946479",
+        "start": "2022-10-13T06:30:00.000Z",
+        "end": "2022-10-13T08:00:00.000Z",
+        "title": "STRATEGIE ET TI",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Frederic",
+                "lastname": "PATALAGOITY"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC19"
+    },
+    {
+        "uid": "6a813af2228ff2c17949543f5eb041d1",
+        "start": "2022-10-13T08:15:00.000Z",
+        "end": "2022-10-13T09:45:00.000Z",
+        "title": "STRATEGIE ET TI",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Frederic",
+                "lastname": "PATALAGOITY"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC19"
+    },
+    {
+        "uid": "313c1386cc49ad0ad242775fc3f7006b",
+        "start": "2022-10-20T06:30:00.000Z",
+        "end": "2022-10-20T08:00:00.000Z",
+        "title": "STRATEGIE ET TI",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Frederic",
+                "lastname": "PATALAGOITY"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC19"
+    },
+    {
+        "uid": "c9eafe0c56fbd4f0baab96eecdfacd41",
+        "start": "2022-10-20T08:15:00.000Z",
+        "end": "2022-10-20T09:45:00.000Z",
+        "title": "STRATEGIE ET TI",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Frederic",
+                "lastname": "PATALAGOITY"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC19"
+    },
+    {
+        "uid": "7815ac16540b680558163340f73453d6",
+        "start": "2022-10-27T06:30:00.000Z",
+        "end": "2022-10-27T08:00:00.000Z",
+        "title": "STRATEGIE ET TI",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Frederic",
+                "lastname": "PATALAGOITY"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC19"
+    },
+    {
+        "uid": "39a63c0f31a3748cdc4971b081d74f04",
+        "start": "2022-10-27T08:15:00.000Z",
+        "end": "2022-10-27T09:45:00.000Z",
+        "title": "STRATEGIE ET TI",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Frederic",
+                "lastname": "PATALAGOITY"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC19"
+    },
+    {
+        "uid": "e492e60e8da3549c4545f0ffb16f8fa0",
+        "start": "2022-11-14T07:30:00.000Z",
+        "end": "2022-11-14T09:00:00.000Z",
+        "title": "STRATEGIE ET TI",
+        "type": "TD",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Frederic",
+                "lastname": "PATALAGOITY"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC19"
+    },
+    {
+        "uid": "4474c4793dcdb431c8bed2e1898efba6",
+        "start": "2022-11-14T09:15:00.000Z",
+        "end": "2022-11-14T10:45:00.000Z",
+        "title": "STRATEGIE ET TI",
+        "type": "TD",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Frederic",
+                "lastname": "PATALAGOITY"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC19"
+    },
+    {
+        "uid": "efd28acdc46d2d256a0bab477f145e0a",
+        "start": "2022-11-21T07:30:00.000Z",
+        "end": "2022-11-21T09:00:00.000Z",
+        "title": "STRATEGIE ET TI",
+        "type": "TD",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Frederic",
+                "lastname": "PATALAGOITY"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC19"
+    },
+    {
+        "uid": "59ba988045b9687c57c785e7ebb9ea12",
+        "start": "2022-11-21T09:15:00.000Z",
+        "end": "2022-11-21T10:45:00.000Z",
+        "title": "STRATEGIE ET TI",
+        "type": "TD",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Frederic",
+                "lastname": "PATALAGOITY"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC19"
+    },
+    {
+        "uid": "bc5f28333714c0a56903c796455b64f3",
+        "start": "2022-11-28T07:30:00.000Z",
+        "end": "2022-11-28T09:00:00.000Z",
+        "title": "STRATEGIE ET TI",
+        "type": "TD",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Frederic",
+                "lastname": "PATALAGOITY"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC19"
+    },
+    {
+        "uid": "f49d41d121d5b8a6949251d9f8ed2dd0",
+        "start": "2022-11-28T09:15:00.000Z",
+        "end": "2022-11-28T10:45:00.000Z",
+        "title": "STRATEGIE ET TI",
+        "type": "TD",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Frederic",
+                "lastname": "PATALAGOITY"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC19"
+    },
+    {
+        "uid": "e7ed4200f40da1ebffce28b07d839478",
+        "start": "2022-12-05T07:30:00.000Z",
+        "end": "2022-12-05T09:00:00.000Z",
+        "title": "STRATEGIE ET TI",
+        "type": "TD",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Frederic",
+                "lastname": "PATALAGOITY"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC19"
+    },
+    {
+        "uid": "0756047b1640b69a43d2f4f9fa572205",
+        "start": "2022-12-05T09:15:00.000Z",
+        "end": "2022-12-05T10:45:00.000Z",
+        "title": "STRATEGIE ET TI",
+        "type": "TD",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Frederic",
+                "lastname": "PATALAGOITY"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC19"
+    },
+    {
+        "uid": "2080e8ce48e2eb8c66f475b60256126b",
+        "start": "2022-12-12T07:30:00.000Z",
+        "end": "2022-12-12T09:00:00.000Z",
+        "title": "STRATEGIE ET TI",
+        "type": "TD",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Frederic",
+                "lastname": "PATALAGOITY"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC19"
+    },
+    {
+        "uid": "aa41b836262071ffa01cde7710197e1f",
+        "start": "2022-12-12T09:15:00.000Z",
+        "end": "2022-12-12T10:45:00.000Z",
+        "title": "STRATEGIE ET TI",
+        "type": "TD",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Frederic",
+                "lastname": "PATALAGOITY"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC19"
+    },
+    {
+        "uid": "0c198437cf4164decd27bfc7012fba89",
+        "start": "2022-12-13T07:30:00.000Z",
+        "end": "2022-12-13T09:00:00.000Z",
+        "title": "STRATEGIE ET TI",
+        "type": "TD",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Frederic",
+                "lastname": "PATALAGOITY"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC19"
+    },
+    {
+        "uid": "3a1af4e808c754dd2f79d5570c7362e8",
+        "start": "2022-12-13T09:15:00.000Z",
+        "end": "2022-12-13T10:45:00.000Z",
+        "title": "STRATEGIE ET TI",
+        "type": "TD",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Frederic",
+                "lastname": "PATALAGOITY"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC19"
+    },
+    {
+        "uid": "20b23b5d755d43a6fb4bd7c00441e9a2",
+        "start": "2022-10-17T11:00:00.000Z",
+        "end": "2022-10-17T12:30:00.000Z",
+        "title": "SECURITE DES SYSTEMES D INFORMATIONS",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Damien",
+                "lastname": "PLOIX"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC18"
+    },
+    {
+        "uid": "bcf1a46361dce44408556280e81fe0d7",
+        "start": "2022-10-17T12:45:00.000Z",
+        "end": "2022-10-17T14:15:00.000Z",
+        "title": "SECURITE DES SYSTEMES D INFORMATIONS",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Damien",
+                "lastname": "PLOIX"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC18"
+    },
+    {
+        "uid": "2d71367ade9583cfaf506510ec52df4f",
+        "start": "2022-10-24T11:00:00.000Z",
+        "end": "2022-10-24T12:30:00.000Z",
+        "title": "SECURITE DES SYSTEMES D INFORMATIONS",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Damien",
+                "lastname": "PLOIX"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC18"
+    },
+    {
+        "uid": "629e757ce14ed83ffdc4e907f8021eae",
+        "start": "2022-10-24T12:45:00.000Z",
+        "end": "2022-10-24T14:15:00.000Z",
+        "title": "SECURITE DES SYSTEMES D INFORMATIONS",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Damien",
+                "lastname": "PLOIX"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC18"
+    },
+    {
+        "uid": "6ef812e54ccf51c86eaecab300000617",
+        "start": "2022-11-07T12:00:00.000Z",
+        "end": "2022-11-07T13:30:00.000Z",
+        "title": "SECURITE DES SYSTEMES D INFORMATIONS",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Damien",
+                "lastname": "PLOIX"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC18"
+    },
+    {
+        "uid": "f1b681dfa34334134cc2be86d1132ac2",
+        "start": "2022-11-07T13:45:00.000Z",
+        "end": "2022-11-07T15:15:00.000Z",
+        "title": "SECURITE DES SYSTEMES D INFORMATIONS",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Damien",
+                "lastname": "PLOIX"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC18"
+    },
+    {
+        "uid": "36d306d6542c3cccd199940bb6391c01",
+        "start": "2022-11-14T12:00:00.000Z",
+        "end": "2022-11-14T13:30:00.000Z",
+        "title": "SECURITE DES SYSTEMES D INFORMATIONS",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Damien",
+                "lastname": "PLOIX"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC18"
+    },
+    {
+        "uid": "333be252c3b9225d4dd8a8ac7bb86ae6",
+        "start": "2022-11-14T13:45:00.000Z",
+        "end": "2022-11-14T15:15:00.000Z",
+        "title": "SECURITE DES SYSTEMES D INFORMATIONS",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Damien",
+                "lastname": "PLOIX"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC18"
+    },
+    {
+        "uid": "d62b5bde14c6f1984cab2507ed8718de",
+        "start": "2022-11-21T12:00:00.000Z",
+        "end": "2022-11-21T13:30:00.000Z",
+        "title": "SECURITE DES SYSTEMES D INFORMATIONS",
+        "type": "Cours",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC18"
+    },
+    {
+        "uid": "eacc51cacbc60b50c417c1487197dc07",
+        "start": "2022-11-21T13:45:00.000Z",
+        "end": "2022-11-21T15:15:00.000Z",
+        "title": "SECURITE DES SYSTEMES D INFORMATIONS",
+        "type": "Cours",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC18"
+    },
+    {
+        "uid": "02da13fc5da876d24d35a3104e07c263",
+        "start": "2022-11-28T12:00:00.000Z",
+        "end": "2022-11-28T13:30:00.000Z",
+        "title": "SECURITE DES SYSTEMES D INFORMATIONS",
+        "type": "Cours",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC18"
+    },
+    {
+        "uid": "e1ccef2977678c677bec3d29374ed1e0",
+        "start": "2022-11-28T13:45:00.000Z",
+        "end": "2022-11-28T15:15:00.000Z",
+        "title": "SECURITE DES SYSTEMES D INFORMATIONS",
+        "type": "Cours",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC18"
+    },
+    {
+        "uid": "cccd2a57b87bde69c3e67b0118d1897c",
+        "start": "2023-03-21T12:00:00.000Z",
+        "end": "2023-03-21T13:30:00.000Z",
+        "title": "PROJET APPLICATIF 3",
+        "type": "TP",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC213"
+    },
+    {
+        "uid": "5fc520b540ebafa09d2ead99a44ea2a8",
+        "start": "2023-03-21T13:45:00.000Z",
+        "end": "2023-03-21T15:15:00.000Z",
+        "title": "PROJET APPLICATIF 3",
+        "type": "TP",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC213"
+    },
+    {
+        "uid": "7ec3820924dfd568ae9f0ef12f0e054b",
+        "start": "2023-03-27T06:30:00.000Z",
+        "end": "2023-03-27T08:00:00.000Z",
+        "title": "PROJET APPLICATIF 3",
+        "type": "TP",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC213"
+    },
+    {
+        "uid": "ea11096474d21d6499b84d666e72bd23",
+        "start": "2023-03-27T08:15:00.000Z",
+        "end": "2023-03-27T09:45:00.000Z",
+        "title": "PROJET APPLICATIF 3",
+        "type": "TP",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC213"
+    },
+    {
+        "uid": "73ff0a717c79bb6ee976316b8551cee1",
+        "start": "2023-03-27T11:00:00.000Z",
+        "end": "2023-03-27T12:30:00.000Z",
+        "title": "PROJET APPLICATIF 3",
+        "type": "TP",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC213"
+    },
+    {
+        "uid": "ad16e61537cddf5728d0397ed51b7628",
+        "start": "2023-03-27T12:45:00.000Z",
+        "end": "2023-03-27T14:15:00.000Z",
+        "title": "PROJET APPLICATIF 3",
+        "type": "TP",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC213"
+    },
+    {
+        "uid": "e87147899d565611b0a6e4b7f9e967af",
+        "start": "2023-03-28T11:00:00.000Z",
+        "end": "2023-03-28T12:30:00.000Z",
+        "title": "PROJET APPLICATIF 3",
+        "type": "TP",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC213"
+    },
+    {
+        "uid": "1f8992171b2be9fb5796eee20eeb58b6",
+        "start": "2023-03-28T12:45:00.000Z",
+        "end": "2023-03-28T14:15:00.000Z",
+        "title": "PROJET APPLICATIF 3",
+        "type": "TP",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC213"
+    },
+    {
+        "uid": "cf562f1f872d8334efc713cc7f5fa77a",
+        "start": "2023-04-03T06:30:00.000Z",
+        "end": "2023-04-03T08:00:00.000Z",
+        "title": "PROJET APPLICATIF 3",
+        "type": "TP",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC213"
+    },
+    {
+        "uid": "e9485d79a0787530cee441a194029fed",
+        "start": "2023-04-03T08:15:00.000Z",
+        "end": "2023-04-03T09:45:00.000Z",
+        "title": "PROJET APPLICATIF 3",
+        "type": "TP",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC213"
+    },
+    {
+        "uid": "1622f17ac9103dffa6f2980dbdf2c597",
+        "start": "2023-04-03T11:00:00.000Z",
+        "end": "2023-04-03T12:30:00.000Z",
+        "title": "PROJET APPLICATIF 3",
+        "type": "TP",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC213"
+    },
+    {
+        "uid": "4b828cd32ae29eaef38a3f08cdf705d9",
+        "start": "2023-04-03T12:45:00.000Z",
+        "end": "2023-04-03T14:15:00.000Z",
+        "title": "PROJET APPLICATIF 3",
+        "type": "TP",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC213"
+    },
+    {
+        "uid": "09d723d781b2e88b5ebfe3aa37bb8bf8",
+        "start": "2023-04-04T11:00:00.000Z",
+        "end": "2023-04-04T12:30:00.000Z",
+        "title": "PROJET APPLICATIF 3",
+        "type": "TP",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC213"
+    },
+    {
+        "uid": "7b33a99b4c8617d4ae029eb91d76dd57",
+        "start": "2023-04-04T12:45:00.000Z",
+        "end": "2023-04-04T14:15:00.000Z",
+        "title": "PROJET APPLICATIF 3",
+        "type": "TP",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC213"
+    },
+    {
+        "uid": "d6e0885ecdc78b2c1814a392e41c45b8",
+        "start": "2023-04-17T06:30:00.000Z",
+        "end": "2023-04-17T08:00:00.000Z",
+        "title": "PROJET APPLICATIF 3",
+        "type": "TP",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC213"
+    },
+    {
+        "uid": "fc9af2735af9ae33a6d44aa6c1055171",
+        "start": "2023-04-17T08:15:00.000Z",
+        "end": "2023-04-17T09:45:00.000Z",
+        "title": "PROJET APPLICATIF 3",
+        "type": "TP",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC213"
+    },
+    {
+        "uid": "f2c20ea0fecf82a6c1eb98e3bbf1a5c6",
+        "start": "2023-04-17T11:00:00.000Z",
+        "end": "2023-04-17T12:30:00.000Z",
+        "title": "PROJET APPLICATIF 3",
+        "type": "TP",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC213"
+    },
+    {
+        "uid": "f58db2ad03f0b7d12dc5950839faa74b",
+        "start": "2023-04-17T12:45:00.000Z",
+        "end": "2023-04-17T14:15:00.000Z",
+        "title": "PROJET APPLICATIF 3",
+        "type": "TP",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC213"
+    },
+    {
+        "uid": "af86beb1507c5b75447f4670b12205f0",
+        "start": "2023-04-18T11:00:00.000Z",
+        "end": "2023-04-18T12:30:00.000Z",
+        "title": "PROJET APPLICATIF 3",
+        "type": "TP",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC213"
+    },
+    {
+        "uid": "a7b0e708263016aa030b279f591c919a",
+        "start": "2023-04-18T12:45:00.000Z",
+        "end": "2023-04-18T14:15:00.000Z",
+        "title": "PROJET APPLICATIF 3",
+        "type": "TP",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC213"
+    },
+    {
+        "uid": "cb43de9b315739083ec5a39de64cf64d",
+        "start": "2022-09-20T11:00:00.000Z",
+        "end": "2022-09-20T12:30:00.000Z",
+        "title": "ARCHITECTURE DES SI",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Laurent",
+                "lastname": "BREDA"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-109"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE FI"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC11"
+    },
+    {
+        "uid": "818a48d9b2960600b2279539569c7d17",
+        "start": "2022-09-20T12:45:00.000Z",
+        "end": "2022-09-20T14:15:00.000Z",
+        "title": "ARCHITECTURE DES SI",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Laurent",
+                "lastname": "BREDA"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-109"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE FI"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC11"
+    },
+    {
+        "uid": "4e9347e278cc82109a85571e215598e1",
+        "start": "2022-09-27T11:00:00.000Z",
+        "end": "2022-09-27T12:30:00.000Z",
+        "title": "ARCHITECTURE DES SI",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Laurent",
+                "lastname": "BREDA"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-109"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE FI"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC11"
+    },
+    {
+        "uid": "260077351da5f95afc2e58d3a8748eb5",
+        "start": "2022-09-27T12:45:00.000Z",
+        "end": "2022-09-27T14:15:00.000Z",
+        "title": "ARCHITECTURE DES SI",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Laurent",
+                "lastname": "BREDA"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-109"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE FI"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC11"
+    },
+    {
+        "uid": "9bbb21efede3c96d68f9378b04556f96",
+        "start": "2022-10-04T11:00:00.000Z",
+        "end": "2022-10-04T12:30:00.000Z",
+        "title": "ARCHITECTURE DES SI",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Laurent",
+                "lastname": "BREDA"
+            }
+        ],
+        "locations": [
+            "IBGBI-C-001"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE FI"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC11"
+    },
+    {
+        "uid": "e533a7ab42173390a0fe7e7064f3022e",
+        "start": "2022-10-04T12:45:00.000Z",
+        "end": "2022-10-04T14:15:00.000Z",
+        "title": "ARCHITECTURE DES SI",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Laurent",
+                "lastname": "BREDA"
+            }
+        ],
+        "locations": [
+            "IBGBI-C-001"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE FI"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC11"
+    },
+    {
+        "uid": "fb318166c5a7603af5e0a8a74aeb9f5e",
+        "start": "2022-10-11T11:00:00.000Z",
+        "end": "2022-10-11T12:30:00.000Z",
+        "title": "ARCHITECTURE DES SI",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Laurent",
+                "lastname": "BREDA"
+            }
+        ],
+        "locations": [
+            "IBGBI-C-001"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE FI"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC11"
+    },
+    {
+        "uid": "d2d988b9aa8848debf2576896d3b6643",
+        "start": "2022-10-11T12:45:00.000Z",
+        "end": "2022-10-11T14:15:00.000Z",
+        "title": "ARCHITECTURE DES SI",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Laurent",
+                "lastname": "BREDA"
+            }
+        ],
+        "locations": [
+            "IBGBI-C-001"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE FI"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC11"
+    },
+    {
+        "uid": "42562e47df986486887184f9dcce727c",
+        "start": "2022-10-18T11:00:00.000Z",
+        "end": "2022-10-18T12:30:00.000Z",
+        "title": "ARCHITECTURE DES SI",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Laurent",
+                "lastname": "BREDA"
+            }
+        ],
+        "locations": [
+            "IBGBI-PETITAMPHI"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE FI"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC11"
+    },
+    {
+        "uid": "984b81383571f82ab4378c7996c4b80b",
+        "start": "2022-10-18T12:45:00.000Z",
+        "end": "2022-10-18T14:15:00.000Z",
+        "title": "ARCHITECTURE DES SI",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Laurent",
+                "lastname": "BREDA"
+            }
+        ],
+        "locations": [
+            "IBGBI-PETITAMPHI"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE FI"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC11"
+    },
+    {
+        "uid": "686a036c0ec368513a4edc7ea1fe2722",
+        "start": "2022-10-18T14:30:00.000Z",
+        "end": "2022-10-18T16:00:00.000Z",
+        "title": "ARCHITECTURE DES SI",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Laurent",
+                "lastname": "BREDA"
+            }
+        ],
+        "locations": [
+            "IBGBI-PETITAMPHI"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE FI"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC11"
+    },
+    {
+        "uid": "4e2aef119ba4ef72cf2cd2824797a133",
+        "start": "2022-10-25T11:00:00.000Z",
+        "end": "2022-10-25T12:30:00.000Z",
+        "title": "ARCHITECTURE DES SI",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Laurent",
+                "lastname": "BREDA"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-109"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE FI"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC11"
+    },
+    {
+        "uid": "c09a85b2c5d45fe5caeee8a8679a24c1",
+        "start": "2022-10-25T12:45:00.000Z",
+        "end": "2022-10-25T14:15:00.000Z",
+        "title": "ARCHITECTURE DES SI",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Laurent",
+                "lastname": "BREDA"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-109"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE FI"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC11"
+    },
+    {
+        "uid": "90257fe45f348de6e5ef947d857f2f36",
+        "start": "2022-10-25T14:30:00.000Z",
+        "end": "2022-10-25T16:00:00.000Z",
+        "title": "ARCHITECTURE DES SI",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Laurent",
+                "lastname": "BREDA"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-109"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE FI"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC11"
+    },
+    {
+        "uid": "361f4a8f84a728aa709e303ab1cd0047",
+        "start": "2022-11-08T12:00:00.000Z",
+        "end": "2022-11-08T15:00:00.000Z",
+        "title": "ARCHITECTURE DES SI",
+        "type": "Examen",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Laurent",
+                "lastname": "BREDA"
+            }
+        ],
+        "locations": [
+            "IBGBI-PETITAMPHI"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA",
+            "SFA_M2 MIAGE FI"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC11"
+    },
+    {
+        "uid": "97ddb829c196e47495bee0287e886f20",
+        "start": "2023-03-20T07:30:00.000Z",
+        "end": "2023-03-20T09:00:00.000Z",
+        "title": "SOUTENANCE PROJET RD",
+        "type": "TP",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC211"
+    },
+    {
+        "uid": "85521bc88374e123f93b44f3e27715d1",
+        "start": "2023-03-20T09:15:00.000Z",
+        "end": "2023-03-20T10:45:00.000Z",
+        "title": "SOUTENANCE PROJET RD",
+        "type": "TP",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC211"
+    },
+    {
+        "uid": "3c0ccbd5895a67ecee4076822be80c53",
+        "start": "2023-03-20T12:00:00.000Z",
+        "end": "2023-03-20T13:30:00.000Z",
+        "title": "SOUTENANCE PROJET RD",
+        "type": "TP",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC211"
+    },
+    {
+        "uid": "8adb240ee6ce2766058865bc1ec49344",
+        "start": "2023-03-20T13:45:00.000Z",
+        "end": "2023-03-20T15:15:00.000Z",
+        "title": "SOUTENANCE PROJET RD",
+        "type": "TP",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC211"
+    },
+    {
+        "uid": "644465a29aff55303be254c527147348",
+        "start": "2022-09-16T06:30:00.000Z",
+        "end": "2022-09-16T08:00:00.000Z",
+        "title": "INITIATION A LA RECHERCHE ET PREPARATION AU MEMOIRE",
+        "type": "TD",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC22"
+    },
+    {
+        "uid": "99de53985a2011ddbb4f8d14d872ad44",
+        "start": "2022-09-16T08:15:00.000Z",
+        "end": "2022-09-16T09:45:00.000Z",
+        "title": "INITIATION A LA RECHERCHE ET PREPARATION AU MEMOIRE",
+        "type": "TD",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC22"
+    },
+    {
+        "uid": "e057f9997d29774ef0e80f6d447f314a",
+        "start": "2022-10-14T06:30:00.000Z",
+        "end": "2022-10-14T08:00:00.000Z",
+        "title": "INITIATION A LA RECHERCHE ET PREPARATION AU MEMOIRE",
+        "type": "TD",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Bachir",
+                "lastname": "DJAFRI"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC22"
+    },
+    {
+        "uid": "f354df9f14605fadcd916074bca791d4",
+        "start": "2022-10-14T08:15:00.000Z",
+        "end": "2022-10-14T09:45:00.000Z",
+        "title": "INITIATION A LA RECHERCHE ET PREPARATION AU MEMOIRE",
+        "type": "TD",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Bachir",
+                "lastname": "DJAFRI"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC22"
+    },
+    {
+        "uid": "c1ba49ead67aa38f9bf36fd1ccf4f7a8",
+        "start": "2022-11-29T07:30:00.000Z",
+        "end": "2022-11-29T09:00:00.000Z",
+        "title": "INITIATION A LA RECHERCHE ET PREPARATION AU MEMOIRE",
+        "type": "TD",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Bachir",
+                "lastname": "DJAFRI"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC22"
+    },
+    {
+        "uid": "7fca6e37b472dfd8693e8626e46714bc",
+        "start": "2022-11-29T09:15:00.000Z",
+        "end": "2022-11-29T10:45:00.000Z",
+        "title": "INITIATION A LA RECHERCHE ET PREPARATION AU MEMOIRE",
+        "type": "TD",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Bachir",
+                "lastname": "DJAFRI"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC22"
+    },
+    {
+        "uid": "9fbdf00c7e6f2604221813e7198d7bd5",
+        "start": "2022-12-06T07:30:00.000Z",
+        "end": "2022-12-06T09:00:00.000Z",
+        "title": "INITIATION A LA RECHERCHE ET PREPARATION AU MEMOIRE",
+        "type": "TD",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Bachir",
+                "lastname": "DJAFRI"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC22"
+    },
+    {
+        "uid": "9af2d85bd07999be16aaaf295f8bab51",
+        "start": "2022-12-06T09:15:00.000Z",
+        "end": "2022-12-06T10:45:00.000Z",
+        "title": "INITIATION A LA RECHERCHE ET PREPARATION AU MEMOIRE",
+        "type": "TD",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Bachir",
+                "lastname": "DJAFRI"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC22"
+    },
+    {
+        "uid": "ee6a7c51ec5232763f834778ff90ccf4",
+        "start": "2023-01-23T07:30:00.000Z",
+        "end": "2023-01-23T09:00:00.000Z",
+        "title": "INITIATION A LA RECHERCHE ET PREPARATION AU MEMOIRE",
+        "type": "TD",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Bachir",
+                "lastname": "DJAFRI"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC22"
+    },
+    {
+        "uid": "7779828edaa66a00f658dd5b34c0f6f6",
+        "start": "2023-01-23T09:15:00.000Z",
+        "end": "2023-01-23T10:45:00.000Z",
+        "title": "INITIATION A LA RECHERCHE ET PREPARATION AU MEMOIRE",
+        "type": "TD",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Bachir",
+                "lastname": "DJAFRI"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC22"
+    },
+    {
+        "uid": "ec4ef4b03500fd0456426fd2fb07c89d",
+        "start": "2023-02-13T07:30:00.000Z",
+        "end": "2023-02-13T09:00:00.000Z",
+        "title": "INITIATION A LA RECHERCHE ET PREPARATION AU MEMOIRE",
+        "type": "TD",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Bachir",
+                "lastname": "DJAFRI"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC22"
+    },
+    {
+        "uid": "2e4a74e198271ba6fc4738328e8f6206",
+        "start": "2023-02-13T09:15:00.000Z",
+        "end": "2023-02-13T10:45:00.000Z",
+        "title": "INITIATION A LA RECHERCHE ET PREPARATION AU MEMOIRE",
+        "type": "TD",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Bachir",
+                "lastname": "DJAFRI"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC22"
+    },
+    {
+        "uid": "b156b6f8006756c9805bb5d83751c58a",
+        "start": "2023-02-27T07:30:00.000Z",
+        "end": "2023-02-27T09:00:00.000Z",
+        "title": "INITIATION A LA RECHERCHE ET PREPARATION AU MEMOIRE",
+        "type": "TD",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Bachir",
+                "lastname": "DJAFRI"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC22"
+    },
+    {
+        "uid": "76b3b61db15ef6d716d9096011ebfff6",
+        "start": "2023-02-27T09:15:00.000Z",
+        "end": "2023-02-27T10:45:00.000Z",
+        "title": "INITIATION A LA RECHERCHE ET PREPARATION AU MEMOIRE",
+        "type": "TD",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Bachir",
+                "lastname": "DJAFRI"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC22"
+    },
+    {
+        "uid": "f29323f46a456078aef0328af497927d",
+        "start": "2023-03-13T07:30:00.000Z",
+        "end": "2023-03-13T09:00:00.000Z",
+        "title": "INITIATION A LA RECHERCHE ET PREPARATION AU MEMOIRE",
+        "type": "TD",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Bachir",
+                "lastname": "DJAFRI"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC22"
+    },
+    {
+        "uid": "d260a90a5e6d1582fff80be2c0a7a866",
+        "start": "2023-03-13T09:15:00.000Z",
+        "end": "2023-03-13T10:45:00.000Z",
+        "title": "INITIATION A LA RECHERCHE ET PREPARATION AU MEMOIRE",
+        "type": "TD",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Bachir",
+                "lastname": "DJAFRI"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC22"
+    },
+    {
+        "uid": "73b6108905e8936a50a1c4c2378e0311",
+        "start": "2022-10-07T11:00:00.000Z",
+        "end": "2022-10-07T12:30:00.000Z",
+        "title": "PROJET RD",
+        "type": "TP",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC211"
+    },
+    {
+        "uid": "35811f6255ce9956ccee4ce09cc31c32",
+        "start": "2022-10-07T12:45:00.000Z",
+        "end": "2022-10-07T14:15:00.000Z",
+        "title": "PROJET RD",
+        "type": "TP",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Franck",
+                "lastname": "LEDOUX"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC211"
+    },
+    {
+        "uid": "aeb5f8135b6d6c03a2183f7acbcfef20",
+        "start": "2022-10-10T11:00:00.000Z",
+        "end": "2022-10-10T12:30:00.000Z",
+        "title": "PROJET RD",
+        "type": "TP",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Franck",
+                "lastname": "LEDOUX"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC211"
+    },
+    {
+        "uid": "2ff3e9949b5f4976a20a440086a39755",
+        "start": "2022-10-10T12:45:00.000Z",
+        "end": "2022-10-10T14:15:00.000Z",
+        "title": "PROJET RD",
+        "type": "TP",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Franck",
+                "lastname": "LEDOUX"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC211"
+    },
+    {
+        "uid": "691b9b06619a0ba5fd1b1aa969ed3492",
+        "start": "2022-10-12T06:30:00.000Z",
+        "end": "2022-10-12T08:00:00.000Z",
+        "title": "PROJET RD",
+        "type": "TP",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC211"
+    },
+    {
+        "uid": "378ea1a7d9f4e55aa0a735bd7d938fc0",
+        "start": "2022-10-12T08:15:00.000Z",
+        "end": "2022-10-12T09:45:00.000Z",
+        "title": "PROJET RD",
+        "type": "TP",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC211"
+    },
+    {
+        "uid": "819de1aac385c2db120952a1978fc99b",
+        "start": "2022-10-21T11:00:00.000Z",
+        "end": "2022-10-21T12:30:00.000Z",
+        "title": "PROJET RD",
+        "type": "TP",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Franck",
+                "lastname": "LEDOUX"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC211"
+    },
+    {
+        "uid": "fa6d665ba28aa6ce3dbd2f2aeece4118",
+        "start": "2022-10-21T12:45:00.000Z",
+        "end": "2022-10-21T14:15:00.000Z",
+        "title": "PROJET RD",
+        "type": "TP",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Franck",
+                "lastname": "LEDOUX"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC211"
+    },
+    {
+        "uid": "8a2c9b21bec2e608dc948d8e5d6c39b7",
+        "start": "2022-10-24T06:30:00.000Z",
+        "end": "2022-10-24T08:00:00.000Z",
+        "title": "PROJET RD",
+        "type": "TP",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Franck",
+                "lastname": "LEDOUX"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC211"
+    },
+    {
+        "uid": "cda8ab8c562fc1e24094ea27e6340f23",
+        "start": "2022-10-24T08:15:00.000Z",
+        "end": "2022-10-24T09:45:00.000Z",
+        "title": "PROJET RD",
+        "type": "TP",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Franck",
+                "lastname": "LEDOUX"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC211"
+    },
+    {
+        "uid": "ad8082998f609a734b8f65a882e27ec3",
+        "start": "2022-10-28T11:00:00.000Z",
+        "end": "2022-10-28T12:30:00.000Z",
+        "title": "PROJET RD",
+        "type": "TP",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Franck",
+                "lastname": "LEDOUX"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC211"
+    },
+    {
+        "uid": "38d3bace9e91906c28c83d1d68a9c3f6",
+        "start": "2022-10-28T12:45:00.000Z",
+        "end": "2022-10-28T14:15:00.000Z",
+        "title": "PROJET RD",
+        "type": "TP",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Franck",
+                "lastname": "LEDOUX"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC211"
+    },
+    {
+        "uid": "5eaf59ba43dfe990502a4982452a0abf",
+        "start": "2022-12-05T12:00:00.000Z",
+        "end": "2022-12-05T13:30:00.000Z",
+        "title": "PROJET RD",
+        "type": "TP",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC211"
+    },
+    {
+        "uid": "9b49d7d6d3b7e9f284d8687338ac81e3",
+        "start": "2022-12-05T13:45:00.000Z",
+        "end": "2022-12-05T15:15:00.000Z",
+        "title": "PROJET RD",
+        "type": "TP",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC211"
+    },
+    {
+        "uid": "ffe5d070a84875029f922de190550a77",
+        "start": "2023-02-27T12:00:00.000Z",
+        "end": "2023-02-27T13:30:00.000Z",
+        "title": "PROJET RD",
+        "type": "TP",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC211"
+    },
+    {
+        "uid": "91a721ee9a6cdd90ee7299ea3ce48a8c",
+        "start": "2023-02-27T13:45:00.000Z",
+        "end": "2023-02-27T15:15:00.000Z",
+        "title": "PROJET RD",
+        "type": "TP",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC211"
+    },
+    {
+        "uid": "a94c715cbcd3249c6b966a417ddf72af",
+        "start": "2023-02-28T12:00:00.000Z",
+        "end": "2023-02-28T13:30:00.000Z",
+        "title": "PROJET RD",
+        "type": "TP",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC211"
+    },
+    {
+        "uid": "6ba09efbb362ec4d74fe59333cdd1b07",
+        "start": "2023-02-28T13:45:00.000Z",
+        "end": "2023-02-28T15:15:00.000Z",
+        "title": "PROJET RD",
+        "type": "TP",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC211"
+    },
+    {
+        "uid": "f6f41afca4a0df04ab8a4cf47c60a9a2",
+        "start": "2023-03-06T07:30:00.000Z",
+        "end": "2023-03-06T09:00:00.000Z",
+        "title": "PROJET RD",
+        "type": "TP",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC211"
+    },
+    {
+        "uid": "295d48ea41b49e13e2b6f8d2262c9a1e",
+        "start": "2023-03-06T09:15:00.000Z",
+        "end": "2023-03-06T10:45:00.000Z",
+        "title": "PROJET RD",
+        "type": "TP",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC211"
+    },
+    {
+        "uid": "5c7613705338b355a7a5fb38e8f58bf9",
+        "start": "2023-03-13T12:00:00.000Z",
+        "end": "2023-03-13T13:30:00.000Z",
+        "title": "PROJET RD",
+        "type": "TP",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC211"
+    },
+    {
+        "uid": "449570170abe801857877d20ee73f1f9",
+        "start": "2023-03-13T13:45:00.000Z",
+        "end": "2023-03-13T15:15:00.000Z",
+        "title": "PROJET RD",
+        "type": "TP",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC211"
+    },
+    {
+        "uid": "59da7494990f54502584a7584c282b32",
+        "start": "2023-03-14T12:00:00.000Z",
+        "end": "2023-03-14T13:30:00.000Z",
+        "title": "PROJET RD",
+        "type": "TP",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC211"
+    },
+    {
+        "uid": "24b726151e9d5dd64e1d6271482dbc87",
+        "start": "2023-03-14T13:45:00.000Z",
+        "end": "2023-03-14T15:15:00.000Z",
+        "title": "PROJET RD",
+        "type": "TP",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC211"
+    },
+    {
+        "uid": "e41158a50079200c145d877cd683abb2",
+        "start": "2022-09-15T11:00:00.000Z",
+        "end": "2022-09-15T12:30:00.000Z",
+        "title": "FOUILLES DE DONNEES",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Jean Christophe",
+                "lastname": "JANODET"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC15"
+    },
+    {
+        "uid": "22f8f9ccc26a8dfa7ea456c3efc66eaa",
+        "start": "2022-09-15T12:45:00.000Z",
+        "end": "2022-09-15T14:15:00.000Z",
+        "title": "FOUILLES DE DONNEES",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Jean Christophe",
+                "lastname": "JANODET"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC15"
+    },
+    {
+        "uid": "76a68e1590976490f83d5241c4c70596",
+        "start": "2022-09-16T11:00:00.000Z",
+        "end": "2022-09-16T12:30:00.000Z",
+        "title": "FOUILLES DE DONNEES",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Jean Christophe",
+                "lastname": "JANODET"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC15"
+    },
+    {
+        "uid": "a91fb5d2945a38b3527770068823bd4b",
+        "start": "2022-09-16T12:45:00.000Z",
+        "end": "2022-09-16T14:15:00.000Z",
+        "title": "FOUILLES DE DONNEES",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Jean Christophe",
+                "lastname": "JANODET"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC15"
+    },
+    {
+        "uid": "4902629a0d97619a17cd9624793f3be2",
+        "start": "2022-09-19T11:00:00.000Z",
+        "end": "2022-09-19T12:30:00.000Z",
+        "title": "FOUILLES DE DONNEES",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Jean Christophe",
+                "lastname": "JANODET"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC15"
+    },
+    {
+        "uid": "d5b6838c67cee24caead17097ff1aebe",
+        "start": "2022-09-19T12:45:00.000Z",
+        "end": "2022-09-19T14:15:00.000Z",
+        "title": "FOUILLES DE DONNEES",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Jean Christophe",
+                "lastname": "JANODET"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC15"
+    },
+    {
+        "uid": "eb0f7c247264d98399e684311954293d",
+        "start": "2022-09-23T06:30:00.000Z",
+        "end": "2022-09-23T08:00:00.000Z",
+        "title": "FOUILLES DE DONNEES",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Jean Christophe",
+                "lastname": "JANODET"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC15"
+    },
+    {
+        "uid": "d96d47a56c298b34bf3433947d2b380e",
+        "start": "2022-09-23T08:15:00.000Z",
+        "end": "2022-09-23T09:45:00.000Z",
+        "title": "FOUILLES DE DONNEES",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Jean Christophe",
+                "lastname": "JANODET"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC15"
+    },
+    {
+        "uid": "fc1dbdf4915ad31a579adf5d43526496",
+        "start": "2022-09-26T11:00:00.000Z",
+        "end": "2022-09-26T12:30:00.000Z",
+        "title": "FOUILLES DE DONNEES",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Farida",
+                "lastname": "ZEHRAOUI"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC15"
+    },
+    {
+        "uid": "d073c98a60fa7a3bd699ed5b1a2005ea",
+        "start": "2022-09-26T12:45:00.000Z",
+        "end": "2022-09-26T14:15:00.000Z",
+        "title": "FOUILLES DE DONNEES",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Farida",
+                "lastname": "ZEHRAOUI"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC15"
+    },
+    {
+        "uid": "f7380f095913a850086d2cb0782be3dc",
+        "start": "2022-10-03T11:00:00.000Z",
+        "end": "2022-10-03T12:30:00.000Z",
+        "title": "FOUILLES DE DONNEES",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Farida",
+                "lastname": "ZEHRAOUI"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC15"
+    },
+    {
+        "uid": "1e822d1b64d29ec2351c41c64b3c2b52",
+        "start": "2022-10-03T12:45:00.000Z",
+        "end": "2022-10-03T14:15:00.000Z",
+        "title": "FOUILLES DE DONNEES",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Farida",
+                "lastname": "ZEHRAOUI"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC15"
+    },
+    {
+        "uid": "a3e2da38ea7099ef3ea5c8a25a262790",
+        "start": "2022-10-05T06:30:00.000Z",
+        "end": "2022-10-05T08:00:00.000Z",
+        "title": "FOUILLES DE DONNEES",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Farida",
+                "lastname": "ZEHRAOUI"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC15"
+    },
+    {
+        "uid": "2031882ee10b6983acedea9bc706c40f",
+        "start": "2022-10-05T08:15:00.000Z",
+        "end": "2022-10-05T09:45:00.000Z",
+        "title": "FOUILLES DE DONNEES",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Farida",
+                "lastname": "ZEHRAOUI"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC15"
+    },
+    {
+        "uid": "eb0b25c395a461b130747a0add5257f2",
+        "start": "2022-10-17T06:30:00.000Z",
+        "end": "2022-10-17T09:30:00.000Z",
+        "title": "FOUILLES DE DONNEES",
+        "type": "Examen",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Jean Christophe",
+                "lastname": "JANODET"
+            },
+            {
+                "firstname": "Farida",
+                "lastname": "ZEHRAOUI"
+            }
+        ],
+        "locations": [
+            "IBGBI2-A7"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC15"
+    },
+    {
+        "uid": "dc10a6aec843c94df0e3803e347a945c",
+        "start": "2023-01-09T07:30:00.000Z",
+        "end": "2023-01-09T10:30:00.000Z",
+        "title": "UEC19",
+        "type": "Examen",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Frederic",
+                "lastname": "PATALAGOITY"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true
+    },
+    {
+        "uid": "5f54daa04186d88560da7722fc8463d6",
+        "start": "2022-09-20T06:30:00.000Z",
+        "end": "2022-09-20T08:00:00.000Z",
+        "title": "ARCHITECTURE DES SI",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Laurent",
+                "lastname": "BREDA"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC11"
+    },
+    {
+        "uid": "c1e346cfeade63ff2940492d63f909ec",
+        "start": "2022-09-20T08:15:00.000Z",
+        "end": "2022-09-20T09:45:00.000Z",
+        "title": "ARCHITECTURE DES SI",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Laurent",
+                "lastname": "BREDA"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC11"
+    },
+    {
+        "uid": "4f423108c76b747e2ba147b2e953de69",
+        "start": "2022-09-27T06:30:00.000Z",
+        "end": "2022-09-27T08:00:00.000Z",
+        "title": "ARCHITECTURE DES SI",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Laurent",
+                "lastname": "BREDA"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC11"
+    },
+    {
+        "uid": "7437f4e3e8ed61b848e5b0b5a9e6c3e1",
+        "start": "2022-09-27T08:15:00.000Z",
+        "end": "2022-09-27T09:45:00.000Z",
+        "title": "ARCHITECTURE DES SI",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Laurent",
+                "lastname": "BREDA"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC11"
+    },
+    {
+        "uid": "10d30f4b73c975e5c35081a067816765",
+        "start": "2022-10-04T06:30:00.000Z",
+        "end": "2022-10-04T08:00:00.000Z",
+        "title": "ARCHITECTURE DES SI",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Laurent",
+                "lastname": "BREDA"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC11"
+    },
+    {
+        "uid": "794b6c04e71cc95e58d5a86f8107c354",
+        "start": "2022-10-04T08:15:00.000Z",
+        "end": "2022-10-04T09:45:00.000Z",
+        "title": "ARCHITECTURE DES SI",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Laurent",
+                "lastname": "BREDA"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC11"
+    },
+    {
+        "uid": "ae1325d145013e649b6a4732f62e830c",
+        "start": "2022-10-11T06:30:00.000Z",
+        "end": "2022-10-11T08:00:00.000Z",
+        "title": "ARCHITECTURE DES SI",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Laurent",
+                "lastname": "BREDA"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC11"
+    },
+    {
+        "uid": "e3557ae0769aef40c2fd4aaba835c7fe",
+        "start": "2022-10-11T08:15:00.000Z",
+        "end": "2022-10-11T09:45:00.000Z",
+        "title": "ARCHITECTURE DES SI",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Laurent",
+                "lastname": "BREDA"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC11"
+    },
+    {
+        "uid": "ec2e266e0f8bebfcd75cd3ed5b632b8a",
+        "start": "2022-10-18T06:30:00.000Z",
+        "end": "2022-10-18T08:00:00.000Z",
+        "title": "ARCHITECTURE DES SI",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Laurent",
+                "lastname": "BREDA"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC11"
+    },
+    {
+        "uid": "43b31c1070d3ad341058b078a07df7da",
+        "start": "2022-10-18T08:15:00.000Z",
+        "end": "2022-10-18T09:45:00.000Z",
+        "title": "ARCHITECTURE DES SI",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Laurent",
+                "lastname": "BREDA"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC11"
+    },
+    {
+        "uid": "87bb68fdaddd104142e23ea59e90621b",
+        "start": "2022-10-19T06:30:00.000Z",
+        "end": "2022-10-19T08:00:00.000Z",
+        "title": "ARCHITECTURE DES SI",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Laurent",
+                "lastname": "BREDA"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC11"
+    },
+    {
+        "uid": "a19ba3130299ca03169e96de21d2f788",
+        "start": "2022-10-19T08:15:00.000Z",
+        "end": "2022-10-19T09:45:00.000Z",
+        "title": "ARCHITECTURE DES SI",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Laurent",
+                "lastname": "BREDA"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC11"
+    },
+    {
+        "uid": "9aa866d1b4c19a49ba6558a406c02e81",
+        "start": "2022-10-25T06:30:00.000Z",
+        "end": "2022-10-25T08:00:00.000Z",
+        "title": "ARCHITECTURE DES SI",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Laurent",
+                "lastname": "BREDA"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC11"
+    },
+    {
+        "uid": "8a2eb895acc11e90840e22e7a87066b1",
+        "start": "2022-10-25T08:15:00.000Z",
+        "end": "2022-10-25T09:45:00.000Z",
+        "title": "ARCHITECTURE DES SI",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Laurent",
+                "lastname": "BREDA"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC11"
+    },
+    {
+        "uid": "f738e946aff3c14110a4616b1a8744aa",
+        "start": "2023-02-28T07:30:00.000Z",
+        "end": "2023-02-28T09:00:00.000Z",
+        "title": "INDEXATION ET RECHERCHE D INFORMATION",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Blaise",
+                "lastname": "HANCZAR"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC14"
+    },
+    {
+        "uid": "4c3019cb91c4f668de05d45f2dc1c8b0",
+        "start": "2023-02-28T09:15:00.000Z",
+        "end": "2023-02-28T10:45:00.000Z",
+        "title": "INDEXATION ET RECHERCHE D INFORMATION",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Blaise",
+                "lastname": "HANCZAR"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC14"
+    },
+    {
+        "uid": "26da88b5b73cc9d31d46ecc3e78ecfad",
+        "start": "2023-03-07T07:30:00.000Z",
+        "end": "2023-03-07T09:00:00.000Z",
+        "title": "INDEXATION ET RECHERCHE D INFORMATION",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Blaise",
+                "lastname": "HANCZAR"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC14"
+    },
+    {
+        "uid": "2629c14d1af03f52212a0d689ec2bee8",
+        "start": "2023-03-07T09:15:00.000Z",
+        "end": "2023-03-07T10:45:00.000Z",
+        "title": "INDEXATION ET RECHERCHE D INFORMATION",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Blaise",
+                "lastname": "HANCZAR"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC14"
+    },
+    {
+        "uid": "f9da9ba067d436c6ba4dd0e895215378",
+        "start": "2023-03-14T07:30:00.000Z",
+        "end": "2023-03-14T09:00:00.000Z",
+        "title": "INDEXATION ET RECHERCHE D INFORMATION",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Blaise",
+                "lastname": "HANCZAR"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC14"
+    },
+    {
+        "uid": "a082e3df063549c2b7ccfb6014d6e17a",
+        "start": "2023-03-14T09:15:00.000Z",
+        "end": "2023-03-14T10:45:00.000Z",
+        "title": "INDEXATION ET RECHERCHE D INFORMATION",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Blaise",
+                "lastname": "HANCZAR"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC14"
+    },
+    {
+        "uid": "eab8ce72e155818c1fb5dd0913cfd8c9",
+        "start": "2023-03-21T07:30:00.000Z",
+        "end": "2023-03-21T09:00:00.000Z",
+        "title": "INDEXATION ET RECHERCHE D INFORMATION",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Blaise",
+                "lastname": "HANCZAR"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC14"
+    },
+    {
+        "uid": "77c6699028cc0d54dba4ba53224b1a6b",
+        "start": "2023-03-21T09:15:00.000Z",
+        "end": "2023-03-21T10:45:00.000Z",
+        "title": "INDEXATION ET RECHERCHE D INFORMATION",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Blaise",
+                "lastname": "HANCZAR"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC14"
+    },
+    {
+        "uid": "1775ae1177e294fa0d962e55108fe279",
+        "start": "2023-03-28T06:30:00.000Z",
+        "end": "2023-03-28T08:00:00.000Z",
+        "title": "INDEXATION ET RECHERCHE D INFORMATION",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Blaise",
+                "lastname": "HANCZAR"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC14"
+    },
+    {
+        "uid": "52813005eb005309cd26343c93b6bb1b",
+        "start": "2023-03-28T08:15:00.000Z",
+        "end": "2023-03-28T09:45:00.000Z",
+        "title": "INDEXATION ET RECHERCHE D INFORMATION",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Blaise",
+                "lastname": "HANCZAR"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC14"
+    },
+    {
+        "uid": "d5dbd08221406dfc8b29fdbbfd762fc5",
+        "start": "2023-04-04T06:30:00.000Z",
+        "end": "2023-04-04T08:00:00.000Z",
+        "title": "INDEXATION ET RECHERCHE D INFORMATION",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Blaise",
+                "lastname": "HANCZAR"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC14"
+    },
+    {
+        "uid": "7094d7156b88626c60f31dd7027a4f33",
+        "start": "2023-04-04T08:15:00.000Z",
+        "end": "2023-04-04T09:45:00.000Z",
+        "title": "INDEXATION ET RECHERCHE D INFORMATION",
+        "type": "Cours",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Blaise",
+                "lastname": "HANCZAR"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC14"
+    },
+    {
+        "uid": "2c4eb9992492a24f521edf8c3218060e",
+        "start": "2023-04-24T06:30:00.000Z",
+        "end": "2023-04-24T08:00:00.000Z",
+        "title": "SOUTENANCE PROJET ENT",
+        "type": "TP",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC213"
+    },
+    {
+        "uid": "4d1207fb267a5a1c38c71149ee972f02",
+        "start": "2023-04-24T08:15:00.000Z",
+        "end": "2023-04-24T09:45:00.000Z",
+        "title": "SOUTENANCE PROJET ENT",
+        "type": "TP",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-106",
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC213"
+    },
+    {
+        "uid": "e76e04bd434c5b22400f33ef52088b86",
+        "start": "2023-04-24T11:00:00.000Z",
+        "end": "2023-04-24T12:30:00.000Z",
+        "title": "SOUTENANCE PROJET ENT",
+        "type": "TP",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC213"
+    },
+    {
+        "uid": "4b1cfc5a18fb307a00f3319b515a38ec",
+        "start": "2023-04-24T12:45:00.000Z",
+        "end": "2023-04-24T14:15:00.000Z",
+        "title": "SOUTENANCE PROJET ENT",
+        "type": "TP",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC213"
+    },
+    {
+        "uid": "a333d6f68341bc1f103cf918d2932d7f",
+        "start": "2023-03-06T12:00:00.000Z",
+        "end": "2023-03-06T15:00:00.000Z",
+        "title": "UEC16",
+        "type": "Examen",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true
+    },
+    {
+        "uid": "2ed37aa97a90f4f639d50e82afce5228",
+        "start": "2023-01-10T12:00:00.000Z",
+        "end": "2023-01-10T13:30:00.000Z",
+        "title": "DROIT DES CONTRATS",
+        "type": "Cours",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC17"
+    },
+    {
+        "uid": "0b887ab5d22bd9e6f879e2560a3c63da",
+        "start": "2023-01-10T13:45:00.000Z",
+        "end": "2023-01-10T15:15:00.000Z",
+        "title": "DROIT DES CONTRATS",
+        "type": "Cours",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC17"
+    },
+    {
+        "uid": "317e2dee6181f60f6119f287b857137d",
+        "start": "2023-01-17T12:00:00.000Z",
+        "end": "2023-01-17T13:30:00.000Z",
+        "title": "DROIT DES CONTRATS",
+        "type": "Cours",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC17"
+    },
+    {
+        "uid": "cf03074f9a50da867de1b200c7bbaede",
+        "start": "2023-01-17T13:45:00.000Z",
+        "end": "2023-01-17T15:15:00.000Z",
+        "title": "DROIT DES CONTRATS",
+        "type": "Cours",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC17"
+    },
+    {
+        "uid": "6494bc7cc6b1568e5c182c796435c612",
+        "start": "2023-01-24T12:00:00.000Z",
+        "end": "2023-01-24T13:30:00.000Z",
+        "title": "DROIT DES CONTRATS",
+        "type": "Cours",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC17"
+    },
+    {
+        "uid": "930392f9d1ec1c591f96dbf348ff8e82",
+        "start": "2023-01-24T13:45:00.000Z",
+        "end": "2023-01-24T15:15:00.000Z",
+        "title": "DROIT DES CONTRATS",
+        "type": "Cours",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC17"
+    },
+    {
+        "uid": "edcc9cd109323cce92756666c829eaac",
+        "start": "2023-01-30T12:00:00.000Z",
+        "end": "2023-01-30T13:30:00.000Z",
+        "title": "DROIT DES CONTRATS",
+        "type": "Cours",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC17"
+    },
+    {
+        "uid": "2ce9d6d1f96ec27d525d6480095b045d",
+        "start": "2023-01-30T13:45:00.000Z",
+        "end": "2023-01-30T15:15:00.000Z",
+        "title": "DROIT DES CONTRATS",
+        "type": "Cours",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC17"
+    },
+    {
+        "uid": "d9bc1a91a6e6e4d4b9bd2944581e29f9",
+        "start": "2023-02-07T12:00:00.000Z",
+        "end": "2023-02-07T13:30:00.000Z",
+        "title": "DROIT DES CONTRATS",
+        "type": "Cours",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC17"
+    },
+    {
+        "uid": "42763162b23b1d9965bd67fb1a1a29b0",
+        "start": "2023-02-07T13:45:00.000Z",
+        "end": "2023-02-07T15:15:00.000Z",
+        "title": "DROIT DES CONTRATS",
+        "type": "Cours",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC17"
+    },
+    {
+        "uid": "6d4b07eacf32f996c39899ea76845fb8",
+        "start": "2023-02-13T12:15:00.000Z",
+        "end": "2023-02-13T13:45:00.000Z",
+        "title": "DROIT DES CONTRATS",
+        "type": "Cours",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC17"
+    },
+    {
+        "uid": "fd7623cd8869af22b80c6a24eec3aae7",
+        "start": "2023-02-13T14:00:00.000Z",
+        "end": "2023-02-13T15:30:00.000Z",
+        "title": "DROIT DES CONTRATS",
+        "type": "Cours",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC17"
+    },
+    {
+        "uid": "37e24e09f6d0e40e0c463521b471e0c6",
+        "start": "2023-02-14T12:15:00.000Z",
+        "end": "2023-02-14T13:45:00.000Z",
+        "title": "DROIT DES CONTRATS",
+        "type": "Cours",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC17"
+    },
+    {
+        "uid": "afe34f85b8519e2d36070f564895bfc7",
+        "start": "2023-02-14T14:00:00.000Z",
+        "end": "2023-02-14T15:30:00.000Z",
+        "title": "DROIT DES CONTRATS",
+        "type": "Cours",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC17"
+    },
+    {
+        "uid": "a4e9c2b37087454902bbc835f528a6b4",
+        "start": "2023-03-07T12:00:00.000Z",
+        "end": "2023-03-07T15:00:00.000Z",
+        "title": "DROIT DES CONTRATS",
+        "type": "Examen",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-C-001"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC17"
+    },
+    {
+        "uid": "ef47900723fd9adc11b64efd46f76c6a",
+        "start": "2022-09-14T10:45:00.000Z",
+        "end": "2022-09-14T12:15:00.000Z",
+        "title": "DEVELOPPEMENT DE LOGICIEL LIBRE",
+        "type": "Cours",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-C-001"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA",
+            "SFA_M2 MIAGE FI"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC13"
+    },
+    {
+        "uid": "de96345f3601cec925c4e5fe7e7fc0bb",
+        "start": "2022-09-14T12:30:00.000Z",
+        "end": "2022-09-14T14:00:00.000Z",
+        "title": "DEVELOPPEMENT DE LOGICIEL LIBRE",
+        "type": "Cours",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-C-001"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA",
+            "SFA_M2 MIAGE FI"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC13"
+    },
+    {
+        "uid": "b243bf45b64180c46846ec2bfc64deda",
+        "start": "2022-09-21T11:00:00.000Z",
+        "end": "2022-09-21T12:30:00.000Z",
+        "title": "DEVELOPPEMENT DE LOGICIEL LIBRE",
+        "type": "Cours",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-C-001"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA",
+            "SFA_M2 MIAGE FI"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC13"
+    },
+    {
+        "uid": "d54bfc0cc43727d8e8fd6e30a7b6a5e1",
+        "start": "2022-09-21T12:45:00.000Z",
+        "end": "2022-09-21T14:15:00.000Z",
+        "title": "DEVELOPPEMENT DE LOGICIEL LIBRE",
+        "type": "Cours",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-C-001"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA",
+            "SFA_M2 MIAGE FI"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC13"
+    },
+    {
+        "uid": "ef0b3533f828ead5d2e011f9605a761e",
+        "start": "2022-09-28T11:00:00.000Z",
+        "end": "2022-09-28T12:30:00.000Z",
+        "title": "DEVELOPPEMENT DE LOGICIEL LIBRE",
+        "type": "Cours",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-C-001"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA",
+            "SFA_M2 MIAGE FI"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC13"
+    },
+    {
+        "uid": "76fff8afe6fe08b5e4b1ff0bdcffc8fa",
+        "start": "2022-09-28T12:45:00.000Z",
+        "end": "2022-09-28T14:15:00.000Z",
+        "title": "DEVELOPPEMENT DE LOGICIEL LIBRE",
+        "type": "Cours",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-C-001"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA",
+            "SFA_M2 MIAGE FI"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC13"
+    },
+    {
+        "uid": "7eac90aa5e8b1508bf7ca427ca68a78d",
+        "start": "2022-10-05T11:00:00.000Z",
+        "end": "2022-10-05T12:30:00.000Z",
+        "title": "DEVELOPPEMENT DE LOGICIEL LIBRE",
+        "type": "Cours",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-C-001"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA",
+            "SFA_M2 MIAGE FI"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC13"
+    },
+    {
+        "uid": "1da855e53c3d1aaa788f697b9d59e080",
+        "start": "2022-10-05T12:45:00.000Z",
+        "end": "2022-10-05T14:15:00.000Z",
+        "title": "DEVELOPPEMENT DE LOGICIEL LIBRE",
+        "type": "Cours",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-C-001"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA",
+            "SFA_M2 MIAGE FI"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC13"
+    },
+    {
+        "uid": "54dc27967d994547c4a791102223646f",
+        "start": "2022-10-12T10:45:00.000Z",
+        "end": "2022-10-12T12:15:00.000Z",
+        "title": "DEVELOPPEMENT DE LOGICIEL LIBRE",
+        "type": "Cours",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-05"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA",
+            "SFA_M2 MIAGE FI"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC13"
+    },
+    {
+        "uid": "85ba0cbe208bd5aa97b104e3ac9adadd",
+        "start": "2022-10-12T12:30:00.000Z",
+        "end": "2022-10-12T14:00:00.000Z",
+        "title": "DEVELOPPEMENT DE LOGICIEL LIBRE",
+        "type": "Cours",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-05"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA",
+            "SFA_M2 MIAGE FI"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC13"
+    },
+    {
+        "uid": "da780dd66929c004db0a0939e60f6f38",
+        "start": "2022-10-19T11:00:00.000Z",
+        "end": "2022-10-19T12:30:00.000Z",
+        "title": "DEVELOPPEMENT DE LOGICIEL LIBRE",
+        "type": "Cours",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-C-001"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA",
+            "SFA_M2 MIAGE FI"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC13"
+    },
+    {
+        "uid": "33f153a4f8116580907aec3f586c9bf2",
+        "start": "2022-10-19T12:45:00.000Z",
+        "end": "2022-10-19T14:15:00.000Z",
+        "title": "DEVELOPPEMENT DE LOGICIEL LIBRE",
+        "type": "Cours",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-C-001"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA",
+            "SFA_M2 MIAGE FI"
+        ],
+        "done": true,
+        "presential": true,
+        "code": "UEC13"
+    },
+    {
+        "uid": "b30537389f87167c66e3d47254716fde",
+        "start": "2022-10-26T11:00:00.000Z",
+        "end": "2022-10-26T12:30:00.000Z",
+        "title": "DEVELOPPEMENT DE LOGICIEL LIBRE",
+        "type": "Cours",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-05"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA",
+            "SFA_M2 MIAGE FI"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC13"
+    },
+    {
+        "uid": "bf3988144d1a44ba9376f49f91c9fc9a",
+        "start": "2022-10-26T12:45:00.000Z",
+        "end": "2022-10-26T14:15:00.000Z",
+        "title": "DEVELOPPEMENT DE LOGICIEL LIBRE",
+        "type": "Cours",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-05"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA",
+            "SFA_M2 MIAGE FI"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC13"
+    },
+    {
+        "uid": "04cbc2115790f73107fff17331a1bba3",
+        "start": "2023-04-25T06:30:00.000Z",
+        "end": "2023-04-25T09:30:00.000Z",
+        "title": "INDEXATION ET RECHERCHE D INFORMATION",
+        "type": "Examen",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Blaise",
+                "lastname": "HANCZAR"
+            }
+        ],
+        "locations": [
+            "IBGBI-C-001"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC14"
+    },
+    {
+        "uid": "b16b59701538d655e37942914d844f26",
+        "start": "2023-01-09T12:00:00.000Z",
+        "end": "2023-01-09T13:30:00.000Z",
+        "title": "ENTREPOTS DE DONNEES",
+        "type": "Cours",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC16"
+    },
+    {
+        "uid": "9f62185d61e82ab787d62742c3c28ffd",
+        "start": "2023-01-09T13:45:00.000Z",
+        "end": "2023-01-09T15:15:00.000Z",
+        "title": "ENTREPOTS DE DONNEES",
+        "type": "Cours",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC16"
+    },
+    {
+        "uid": "7551c288aee71d6c4194bc75d2e6504b",
+        "start": "2023-01-16T12:00:00.000Z",
+        "end": "2023-01-16T13:30:00.000Z",
+        "title": "ENTREPOTS DE DONNEES",
+        "type": "Cours",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC16"
+    },
+    {
+        "uid": "8fe2dd2b2ecd119d64d7a4a7eba07c4a",
+        "start": "2023-01-16T13:45:00.000Z",
+        "end": "2023-01-16T15:15:00.000Z",
+        "title": "ENTREPOTS DE DONNEES",
+        "type": "Cours",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC16"
+    },
+    {
+        "uid": "00bffb510e26eafbaea11d33afd49934",
+        "start": "2023-01-23T12:00:00.000Z",
+        "end": "2023-01-23T13:30:00.000Z",
+        "title": "ENTREPOTS DE DONNEES",
+        "type": "Cours",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC16"
+    },
+    {
+        "uid": "92b2021ff9696c5f2600e455eb8c9777",
+        "start": "2023-01-23T13:45:00.000Z",
+        "end": "2023-01-23T15:15:00.000Z",
+        "title": "ENTREPOTS DE DONNEES",
+        "type": "Cours",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC16"
+    },
+    {
+        "uid": "4610b763d7688230bfb8931120c84dbc",
+        "start": "2023-01-31T12:00:00.000Z",
+        "end": "2023-01-31T13:30:00.000Z",
+        "title": "ENTREPOTS DE DONNEES",
+        "type": "Cours",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC16"
+    },
+    {
+        "uid": "455db3636b856408b3778377343cc11c",
+        "start": "2023-01-31T13:45:00.000Z",
+        "end": "2023-01-31T15:15:00.000Z",
+        "title": "ENTREPOTS DE DONNEES",
+        "type": "Cours",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC16"
+    },
+    {
+        "uid": "5bfa570e1242b8942395a819d12b92f3",
+        "start": "2023-02-06T12:00:00.000Z",
+        "end": "2023-02-06T13:30:00.000Z",
+        "title": "ENTREPOTS DE DONNEES",
+        "type": "Cours",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC16"
+    },
+    {
+        "uid": "0afe6f8d7454c81d2085615cd0a4f362",
+        "start": "2023-02-06T13:45:00.000Z",
+        "end": "2023-02-06T15:15:00.000Z",
+        "title": "ENTREPOTS DE DONNEES",
+        "type": "Cours",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC16"
+    },
+    {
+        "uid": "0a546851e8b512e4e53cafb3f5f016bf",
+        "start": "2023-02-20T12:00:00.000Z",
+        "end": "2023-02-20T13:30:00.000Z",
+        "title": "ENTREPOTS DE DONNEES",
+        "type": "Cours",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC16"
+    },
+    {
+        "uid": "0ec279e1af3efdbaa54dafb499da44af",
+        "start": "2023-02-20T13:45:00.000Z",
+        "end": "2023-02-20T15:15:00.000Z",
+        "title": "ENTREPOTS DE DONNEES",
+        "type": "Cours",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC16"
+    },
+    {
+        "uid": "93f555d8ea9ebaaf4eb92f514810db4e",
+        "start": "2023-02-21T12:00:00.000Z",
+        "end": "2023-02-21T13:30:00.000Z",
+        "title": "ENTREPOTS DE DONNEES",
+        "type": "Cours",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC16"
+    },
+    {
+        "uid": "451768f781613107a4399134a6427770",
+        "start": "2023-02-21T13:45:00.000Z",
+        "end": "2023-02-21T15:15:00.000Z",
+        "title": "ENTREPOTS DE DONNEES",
+        "type": "Cours",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC16"
+    },
+    {
+        "uid": "d77d2d84cd21c90ec17577f8d4491e5e",
+        "start": "2022-11-15T07:30:00.000Z",
+        "end": "2022-11-15T10:30:00.000Z",
+        "title": "DEVELOPPEMENT DE LOGICIEL LIBRE",
+        "type": "Examen",
+        "description": "",
+        "attendees": [],
+        "locations": [
+            "IBGBI-1-106",
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA",
+            "SFA_M2 MIAGE FI"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC13"
+    },
+    {
+        "uid": "c8e36d3273138648adfe7bfc655dcb95",
+        "start": "2022-11-07T07:30:00.000Z",
+        "end": "2022-11-07T10:30:00.000Z",
+        "title": "ARCHITECTURE ORIENTEE SERVICES",
+        "type": "Examen",
+        "description": "",
+        "attendees": [
+            {
+                "firstname": "Franck",
+                "lastname": "LEDOUX"
+            }
+        ],
+        "locations": [
+            "IBGBI-1-108"
+        ],
+        "groups": [
+            "SFA_M2 MIAGE CFA"
+        ],
+        "done": false,
+        "presential": true,
+        "code": "UEC12"
+    }
+]

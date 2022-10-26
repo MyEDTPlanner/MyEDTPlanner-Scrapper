@@ -1,4 +1,5 @@
 const Seance = require('../models/seance');
+const EDTCombiner = require('./EDTCombiner');
 const ICSEventParser = require('../utils/ICSEventParser');
 const WebEventParser = require('../utils/WebEventParser');
 const axios = require("axios");
@@ -43,6 +44,7 @@ class EDTCrawler {
                         //Faire le traitement des données.
                         fs.writeFileSync('storage/web.json', JSON.stringify(this._coursesList));
                         fs.writeFileSync('storage/ics.json', JSON.stringify(this._icsEvents));
+                        fs.writeFileSync('storage/final.json', JSON.stringify(new EDTCombiner(this._coursesList, this._icsEvents).concate()));
                     });
                 }
             );
