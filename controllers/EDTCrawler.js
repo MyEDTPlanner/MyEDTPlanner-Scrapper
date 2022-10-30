@@ -42,10 +42,11 @@ class EDTCrawler {
             this.retrieveICS(),
             this.retrieveWeb()
         ]);
-        const tauxCouverture = this._coursesList.length / this._icsEvents.length  * 100;
-
-        console.log(`Détail de la récupération des sources :\nICS: ${this._icsEvents.length} événements trouvés\nWeb: ${this._coursesList.length} événements trouvés.\nSoit un taux de couverture de ${tauxCouverture.toFixed(2)}%`);
         this._finalList = new EDTCombiner(this._coursesList, this._icsEvents).concate();
+
+        const tauxCouverture = this._coursesList.length / this._icsEvents.length  * 100;
+        
+        console.log(`=== Détail de la récupération des sources ===\nICS: ${this._icsEvents.length} événements trouvés\nWeb: ${this._coursesList.length} événements trouvés.\nSoit un taux de couverture de ${tauxCouverture.toFixed(2)}%\nFichier final: ${this._finalList.length} événements trouvés.`);
         fs.writeFileSync('storage/web.json', JSON.stringify(this._coursesList));
         fs.writeFileSync('storage/ics.json', JSON.stringify(this._icsEvents));
         fs.writeFileSync('storage/final.json', JSON.stringify(this._finalList));
