@@ -66,7 +66,7 @@ class EDTCrawler {
             this._idGroupe = $('input[name="current_student"]')?.attr('value');
             console.log(`La connexion a réussie.\nID Groupe : ${this._idGroupe}\nURL ICS : ${this._icsUrl}`);
         } else {
-            throw new Error("La connexion a échouée. Le groupe est peut-être incorrect.");
+            throw new Error(`Échec de connexion à ${EDTCrawler.BASE_URL}, le groupe donné est peut-être incorrect.`);
         }
     }
 
