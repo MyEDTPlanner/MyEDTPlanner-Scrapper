@@ -52,8 +52,7 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
-node_modules
 
-# Projet
-storage/ics.json
-storage/web.json
+# NodeJS
+node_modules
+.env
