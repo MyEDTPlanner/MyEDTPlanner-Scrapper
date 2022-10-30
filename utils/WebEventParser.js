@@ -4,7 +4,7 @@ const moment = require('moment');
 class WebEventParser {
     static REGEX_DATE = /(Lundi|Mardi|Mercredi|Jeudi|Vendredi|Samedi|Dimanche) /u;
     static REGEX_UEC = /-(?<ec>(?:EC|(?:UE(?:C|T|D)))[0-9]{2,3})_/;
-    static REGEX_PROF = "^(?<prenom>[A-Z](?:\.?|[a-z]+)(?:[ \-‐‑‒–—―﹘﹣－]+[A-Z](?:\.?|[a-z]+))?)[ ]+(?<nom>(?:[A-Z]+(?:[ \-‐‑‒–—―﹘﹣－'’ʾ′ˊˈꞌ][A-Z]+)*|[A-Z][a-z]*(?:[-‐‑‒–—―﹘﹣－'’ʾ′ˊˈꞌ][A-Z][a-z]*)*))$";
+    static REGEX_PROF = "^(?<prenom>(?:[A-Z][a-z]*)(?:[ \-]+[A-Z][a-z]*)?) +(?<nom>(?:[A-Z]+)(?:[ \-]+[A-Z]+)*)$";
 
     constructor(event, module){
         this._event = event;
