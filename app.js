@@ -5,6 +5,7 @@ const dotenv = require('dotenv');
 dotenv.config();
 
 const indexRouter = require('./routes/index');
+const refreshEventsRouter = require('./routes/refresh-events');
 const port = process.env.PORT || 2001;
 
 app.use(express.json());
@@ -12,6 +13,7 @@ app.use(express.urlencoded({ extended: false }));
 
 // Routes d'entrée du projet.
 app.use('/', indexRouter);
+app.use('/refresh-events', refreshEventsRouter);
 
 app.get('*', (req, res) => {
     return res.send({

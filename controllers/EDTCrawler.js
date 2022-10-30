@@ -94,7 +94,7 @@ class EDTCrawler {
         await this.retrieveModules();
 
         // Créer la liste des promesses à executer.
-        let promiseStack = this._modulesList.map(module => this.retrieveModule(module));
+        const promiseStack = this._modulesList.map(module => this.retrieveModule(module));
         
         // Récupérer les cours de chaque module.
         await Promise.all(promiseStack);
