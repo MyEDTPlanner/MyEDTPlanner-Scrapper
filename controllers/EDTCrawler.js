@@ -42,7 +42,7 @@ class EDTCrawler {
             this.retrieveICS(),
             this.retrieveWeb()
         ]);
-        this._finalList = new EDTCombiner(this._coursesList, this._icsEvents).concate();
+        this._finalList = new EDTCombiner(this._icsEvents, this._coursesList).concate();
 
         const tauxCouverture = this._coursesList.length / this._icsEvents.length  * 100;
         
