@@ -63,7 +63,11 @@ class ICSEventParser {
                     this.type = type;
             }
         } else {
-            this.type = "Autre";
+            if(this._event.summary.toLowerCase().includes("rattrapage") || this._event.summary.toLowerCase().includes("examen")){
+                this.type = "Examen";
+            } else {
+                this.type = "Autre";
+            }
         }
     }
     extractTitle(){
