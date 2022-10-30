@@ -58,9 +58,12 @@ class ICSEventParser {
                     break;
                 case "TD":
                     this.type = "TP";
+                    break;
                 default:
                     this.type = type;
             }
+        } else {
+            this.type = "Autre";
         }
     }
     extractTitle(){
