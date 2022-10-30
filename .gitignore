@@ -56,7 +56,3 @@ Temporary Items
 # NodeJS
 node_modules
 .env
-
-storage/ics.json
-storage/web.json
-storage/final.json
