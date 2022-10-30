@@ -21,6 +21,7 @@ class EDTCrawler {
         this._modulesList = [];
         this._coursesList = [];
         this._icsEvents = [];
+        this._finalList = [];
         this._currentYear = 2022;
         this._currentWeek = now.weekNumber;
         this._cookieJar = new tough.CookieJar();
@@ -31,25 +32,25 @@ class EDTCrawler {
         //Faire connexion synchrone du login pour attendre la fin de l'initialisation.
     }
 
-    init(){
-        this.login().then(() => {
-            this.retrieveICS();
-            this.retrieveModules().then(
-                () => {
-                    // Créer la liste des promesses à executer.
-                    let promiseStack = this._modulesList.map(module => this.retrieveModule(module));
-
-                    //Executer les promesses.
-                    Promise.all(promiseStack).then(() => {
-                        //Faire le traitement des données.
-                        fs.writeFileSync('storage/web.json', JSON.stringify(this._coursesList));
-                        fs.writeFileSync('storage/ics.json', JSON.stringify(this._icsEvents));
-                        fs.writeFileSync('storage/final.json', JSON.stringify(new EDTCombiner(this._coursesList, this._icsEvents).concate()));
-                    });
-                }
-            );
-        });
+    getFinalCoursesList(){
+        return this._finalList;
     }
+
+    async init(){
+        await this.login();
+        await Promise.all([
+            this.retrieveICS(),
+            this.retrieveWeb()
+        ]);
+        const tauxCouverture = this._coursesList.length / this._icsEvents.length  * 100;
+
+        console.log(`Détail de la récupération des sources :\nICS: ${this._icsEvents.length} événements trouvés\nWeb: ${this._coursesList.length} événements trouvés.\nSoit un taux de couverture de ${tauxCouverture.toFixed(2)}%`);
+        this._finalList = new EDTCombiner(this._coursesList, this._icsEvents).concate();
+        fs.writeFileSync('storage/web.json', JSON.stringify(this._coursesList));
+        fs.writeFileSync('storage/ics.json', JSON.stringify(this._icsEvents));
+        fs.writeFileSync('storage/final.json', JSON.stringify(this._finalList));
+    }
+    
     async login(){
         const params = new url.URLSearchParams({
             loginstudent: this._code,
@@ -62,11 +63,9 @@ class EDTCrawler {
             const $ = cheerio.load(response.data);
             this._icsUrl = $('#menu li ul li a[href$=".ics"]')?.attr('href');
             this._idGroupe = $('input[name="current_student"]')?.attr('value');
-            console.log("La connexion a réussie.");
-            console.log(this._icsUrl);
-            console.log(this._idGroupe);
+            console.log(`La connexion a réussie.\nID Groupe : ${this._idGroupe}\nURL ICS : ${this._icsUrl}`);
         } else {
-            throw new Error("La connexion a échouée. Vérifiez le code du groupe.");
+            throw new Error("La connexion a échouée. Le groupe est peut-être incorrect.");
         }
     }
 
@@ -85,7 +84,20 @@ class EDTCrawler {
                 }
             }
             console.log("Fichier ICS récupéré.");
+        } else {
+            throw new Error("Impossible de récupérer le fichier ICS.");
         }
+    }
+
+    async retrieveWeb(){
+        // Lancer la récupérer de la liste des modules.
+        await this.retrieveModules();
+
+        // Créer la liste des promesses à executer.
+        let promiseStack = this._modulesList.map(module => this.retrieveModule(module));
+        
+        // Récupérer les cours de chaque module.
+        await Promise.all(promiseStack);
     }
 
     async retrieveModules(){
