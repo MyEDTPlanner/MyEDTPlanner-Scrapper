@@ -1,11 +1,10 @@
 
-const e = require('express');
 const express = require('express');
 const router = express.Router();
 
 const EDTCrawler = require('../controllers/EDTCrawler');
 
-// Get events
+// Retrieve events
 router.get('/:_group', async (req, res) => {
     const { _group } = req.params;
 
