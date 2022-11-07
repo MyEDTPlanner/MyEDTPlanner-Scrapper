@@ -22,7 +22,7 @@ class EDTCrawler {
         this._coursesList = [];
         this._icsEvents = [];
         this._finalList = [];
-        this._currentYear = 2022;
+        this._currentYear;
         this._currentWeek = now.weekNumber;
         this._cookieJar = new tough.CookieJar();
         this._crawler = axioswrapper.wrapper(axios.create({
@@ -64,6 +64,8 @@ class EDTCrawler {
             const $ = cheerio.load(response.data);
             this._icsUrl = $('#menu li ul li a[href$=".ics"]')?.attr('href');
             this._idGroupe = $('input[name="current_student"]')?.attr('value');
+            this._currentYear = $('input[name="current_year"]')?.attr('value');
+            this._currentWeek = $('input[name="current_week"]')?.attr('value');
             console.log(`La connexion a réussie.\nID Groupe : ${this._idGroupe}\nURL ICS : ${this._icsUrl}`);
         } else {
             throw new Error(`Échec de connexion à ${EDTCrawler.BASE_URL}, le groupe donné est peut-être incorrect.`);
