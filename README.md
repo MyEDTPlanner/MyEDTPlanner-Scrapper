@@ -37,8 +37,8 @@ node app
 
 ## Auteurs
 
-- Aghiles MEDANE ([@aghiles-medane](https://github.com/))
-- Emilia MAZARI ([@Emilia-mazari](https://github.com/))
-- Grégoire LICHOU ([@glichou](https://github.com/))
+- Aghiles MEDANE [@aghiles-medane](https://github.com/)
+- Emilia MAZARI [@Emilia-mazari](https://github.com/)
+- Grégoire LICHOU [@glichou](https://github.com/)
 
 Vous pouvez consulter la liste des contributeurs ayant participés à la réalisation du projet [ici](https://github.com/MyEDTPlanner/MyEDTPlanner-API/graphs/contributors) !
