@@ -54,7 +54,8 @@ class OFilCrawler {
             });
 
             if(response.status == 200 && response.data.state == "ok"){
-                return response.data.response;
+                let groups = [...new Set(response.data.response)]
+                return groups;
             }
         } catch (e) {
             //console.log(e);
